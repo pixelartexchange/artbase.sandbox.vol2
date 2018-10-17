@@ -1,6 +1,6 @@
 # CSV <3 YAML Parser / Reader
 
-csvyaml library / gem - read tabular data in the CSV <3 YAML format, that is, comma-separated values CSV (line-by-line) records with yaml ain't markup language (YAML) encoding rules
+csvyaml library / gem - read tabular data in the CSV <3 YAML format, that is, comma-separated values (CSV) line-by-line records with yaml ain't markup language (YAML) encoding rules
 
 * home  :: [github.com/csv11/csvyaml](https://github.com/csv11/csvyaml)
 * bugs  :: [github.com/csv11/csvyaml/issues](https://github.com/csv11/csvyaml/issues)
