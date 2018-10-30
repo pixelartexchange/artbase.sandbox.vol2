@@ -3,4 +3,10 @@ Manifest.txt
 README.md
 Rakefile
 lib/csvyaml.rb
+lib/csvyaml/parser.rb
 lib/csvyaml/version.rb
+test/data/hello.yaml.csv
+test/data/hello11.yaml.csv
+test/helper.rb
+test/test_parser.rb
+test/test_parser_misc.rb

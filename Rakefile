@@ -8,7 +8,7 @@ Hoe.spec 'csvyaml' do
   self.summary = "csvyaml - read tabular data in the CSV <3 YAML format, that is, comma-separated values CSV (line-by-line) records with yaml ain't markup language (YAML) encoding rules"
   self.description = summary
 
-  self.urls    = ['https://github.com/csv11/csvyaml']
+  self.urls    = ['https://github.com/csvreader/csvyaml']
 
   self.author  = 'Gerald Bauer'
   self.email   = 'wwwmake@googlegroups.com'
