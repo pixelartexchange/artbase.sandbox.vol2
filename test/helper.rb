@@ -12,7 +12,7 @@ require 'csvyaml'
 ## add test_data_dir helper
 class CsvYaml
   def self.test_data_dir
-    "#{root}/test/data"
+    "#{root}/datasets"
   end
 end
 

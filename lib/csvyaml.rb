@@ -17,5 +17,5 @@ CSVY     = CsvYaml
 CsvY     = CsvYaml
 
 
-
-puts CsvYaml.banner
+# say hello
+puts CsvYaml.banner     if $DEBUG || (defined?($RUBYCOCO_DEBUG) && $RUBYCOCO_DEBUG)
