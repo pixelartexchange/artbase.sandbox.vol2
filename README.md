@@ -21,12 +21,36 @@
 
 
 
+### Mooncat Series
+
+![](https://github.com/cryptocopycats/mooncats/raw/master/spots/i/currency-v2-0077c8278d@2x.png)
+
+[Free XXXL Download](https://github.com/cryptocopycats/mooncats/raw/master/spots/i/currency-v2-0077c8278d@2x.svg)
+
+
+
+### Golden Bored Apes Series
+
+
+![](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-8-currency-v1@2x.png)
+
+[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-8-currency-v1@2x.png)
+
+
+
+![](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-27-currency-v1@2x.png)
+
+[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-27-currency-v1@2x.png)
+
+
+
+
 
 
 
 ## Do-It-Yourself (DIY) - Yes, You Can!
 
-See the [**(Modern Dotty Spotty) Currency Art How-Tos »]**](https://github.com/currencyart/currencyart-howto)
+See the [**(Modern Dotty Spotty) Currency Art How-Tos »**](https://github.com/currencyart/currencyart-howto)
 
 
 
