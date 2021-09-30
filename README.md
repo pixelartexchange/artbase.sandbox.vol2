@@ -32,15 +32,15 @@
 ### Golden Bored Apes Series
 
 
-![](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-8-currency-v1@2x.png)
+![](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-8-currency-v2@2x.png)
 
-[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-8-currency-v1@2x.png)
+[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-8-currency-v2@2x.png)
 
 
 
-![](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-27-currency-v1@2x.png)
+![](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-27-currency-v2@2x.png)
 
-[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-27-currency-v1@2x.png)
+[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-27-currency-v2@2x.png)
 
 
 
