@@ -5,18 +5,18 @@
 
 ### Punk Series
 
-![](https://github.com/currencyart/currencyart-howto/raw/master/currency/i/punk-10190-currency-v2@2x.png)
+![](https://github.com/pixelartexchange/pixelart-howto/raw/master/currency/i/punk-10190-currency-v2@2x.png)
 
-[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency/i/punk-10190-currency-v2@2x.svg)
+[Free XXXL Download](https://github.com/pixelartexchange/pixelart-howto/raw/master/currency/i/punk-10190-currency-v2@2x.svg)
 
-![](https://github.com/currencyart/currencyart-howto/raw/master/currency/i/punk-10100-currency-v2@2x.png)
+![](https://github.com/pixelartexchange/pixelart-howto/raw/master/currency/i/punk-10100-currency-v2@2x.png)
 
-[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency/i/punk-10100-currency-v2@2x.svg)
+[Free XXXL Download](https://github.com/pixelartexchange/pixelart-howto/raw/master/currency/i/punk-10100-currency-v2@2x.svg)
 
 
-![](https://github.com/currencyart/currencyart-howto/raw/master/currency/i/punk-10088-currency-v2@2x.png)
+![](https://github.com/pixelartexchange/pixelart-howto/raw/master/currency/i/punk-10088-currency-v2@2x.png)
 
-[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency/i/punk-10088-currency-v2@2x.svg)
+[Free XXXL Download](https://github.com/pixelartexchange/pixelart-howto/raw/master/currency/i/punk-10088-currency-v2@2x.svg)
 
 
 
@@ -32,15 +32,15 @@
 ### Golden Bored Apes Series
 
 
-![](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-8-currency-v2@2x.png)
+![](https://github.com/pixelartexchange/pixelart-howto/raw/master/currency-bored-apes/i/boredape_au-8-currency-v2@2x.png)
 
-[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-8-currency-v2@2x.svg)
+[Free XXXL Download](https://github.com/pixelartexchange/pixelart-howto/raw/master/currency-bored-apes/i/boredape_au-8-currency-v2@2x.svg)
 
 
 
-![](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-27-currency-v2@2x.png)
+![](https://github.com/pixelartexchange/pixelart-howto/raw/master/currency-bored-apes/i/boredape_au-27-currency-v2@2x.png)
 
-[Free XXXL Download](https://github.com/currencyart/currencyart-howto/raw/master/currency-bored-apes/i/boredape_au-27-currency-v2@2x.svg)
+[Free XXXL Download](https://github.com/pixelartexchange/pixelart-howto/raw/master/currency-bored-apes/i/boredape_au-27-currency-v2@2x.svg)
 
 
 
@@ -50,7 +50,7 @@
 
 ## Do-It-Yourself (DIY) - Yes, You Can!
 
-See the [**(Modern Dotty Spotty) Currency Art How-Tos »**](https://github.com/currencyart/currencyart-howto)
+See the [**(Modern Dotty Spotty) Currency Art How-Tos »**](https://github.com/pixelartexchange/pixelart-howto#punk-art-1-challenge-series---modern-dotty-spotty-currency-art-how-tos)
 
 
 
