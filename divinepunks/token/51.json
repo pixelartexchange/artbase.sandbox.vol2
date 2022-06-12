@@ -1,0 +1,44 @@
+{
+  "name": "Divine Punk #51",
+  "description": "In the beginning was the Punk, and the Punk was one without a square head or a pointed chin, and the Punk was One... Divine Punks are 1,000 androgynous punks with one head shape representing all and any genders. Introducing dozens of earthly and heavenly traits you have not seen on any punks since the beginning of time. Join the Divine Punks on their journey to the holy mountain! All made by Suzyjaq.",
+  "image": "ipfs://QmXXCerHyupRQ4SnAJg4RHYQcR8RpY9BhbHivdbKetZH1p/51.png",
+  "dna": "bb02a061aceb44a0d6bc8aa2f7b422ac4638c45f",
+  "edition": 51,
+  "date": 1640858054625,
+  "artist": "Suzyjaq",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Base",
+      "value": "base 4"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "no lipstick"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "no eyeshadow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "dazed"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "cross upside down"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "purple short hair"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "no headwear"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
