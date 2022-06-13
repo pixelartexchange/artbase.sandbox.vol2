@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1052",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1052.png",
+  "dna": "7c85c87016da104819e3a2d4bab68310a4eb933e",
+  "edition": 1052,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Infected"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helmet"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Visor Gold"
+    }
+  ]
+}

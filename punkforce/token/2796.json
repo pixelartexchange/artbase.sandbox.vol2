@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2796",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2796.png",
+  "dna": "1f5d4a8084989f2bc007b6e8625bc4d75164aefa",
+  "edition": 2796,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Green"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1452",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1452.png",
+  "dna": "e398218dbbcb337a0c9c57db93117b8279d13621",
+  "edition": 1452,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Mohawk"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Beard Brown"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Vape"
+    }
+  ]
+}

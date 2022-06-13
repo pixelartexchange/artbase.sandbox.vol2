@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #1346",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1346.png",
+  "dna": "87fa0842065e4f229f60df299cd72c18832d521a",
+  "edition": 1346,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Messy Brown"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

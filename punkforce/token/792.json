@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #792",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/792.png",
+  "dna": "70852fb2ff959d3ab7113c83b5eb362cbf167b46",
+  "edition": 792,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cap Backwards"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Black"
+    }
+  ]
+}

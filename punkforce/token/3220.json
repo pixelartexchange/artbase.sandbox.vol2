@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #3220",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3220.png",
+  "dna": "ec2b26c6a246c43c6ea9a7edb06a3e1d1c446a56",
+  "edition": 3220,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Big Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    }
+  ]
+}

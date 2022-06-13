@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1141",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1141.png",
+  "dna": "34034d41761cb43be424e8b491286400a76e47d0",
+  "edition": 1141,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Hookah"
+    }
+  ]
+}

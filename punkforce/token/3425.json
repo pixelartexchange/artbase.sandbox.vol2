@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #3425",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3425.png",
+  "dna": "d7bb1895904bcad837cbc1998da513afe2885a4c",
+  "edition": 3425,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Energy Band"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Beard Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Visor Gold"
+    }
+  ]
+}

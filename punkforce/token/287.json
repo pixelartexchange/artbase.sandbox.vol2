@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #287",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/287.png",
+  "dna": "9bf8dc8121656a9781dfa6a52162413a149399cb",
+  "edition": 287,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cowgirl Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    }
+  ]
+}

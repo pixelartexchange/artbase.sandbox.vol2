@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #2475",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2475.png",
+  "dna": "85bc70861737b4450a1f2a400a6e52457e5b02e3",
+  "edition": 2475,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 9"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap Backwards"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pixel Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

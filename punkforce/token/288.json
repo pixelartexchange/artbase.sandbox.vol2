@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #288",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/288.png",
+  "dna": "fd081f3e2cab11a1215ad5ec7fbbe83ebea493d5",
+  "edition": 288,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cyborg Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2096",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2096.png",
+  "dna": "93a339082fca8f18815086f5f32b5b0413c537e2",
+  "edition": 2096,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Swept Purple"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Blonde"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #1111",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1111.png",
+  "dna": "6f314222e3fa9f3c49a328f37eae403424052fce",
+  "edition": 1111,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo Light"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 3"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Thin Gray Mohawk"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gold Frame"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Vape"
+    }
+  ]
+}

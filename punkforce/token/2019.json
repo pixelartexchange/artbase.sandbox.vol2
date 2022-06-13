@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #2019",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2019.png",
+  "dna": "3b4876f7f31bf05131b07fa72a0e580514a1cfde",
+  "edition": 2019,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 3"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

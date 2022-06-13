@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2679",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2679.png",
+  "dna": "72e76e202133db19a9e1ef2b528311d64e61c2fc",
+  "edition": 2679,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dyed Big Hair"
+    }
+  ]
+}

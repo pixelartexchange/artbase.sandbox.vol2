@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #3175",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3175.png",
+  "dna": "cde534aed837416d052189d79b8109e2d8a1b2cd",
+  "edition": 3175,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 13"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beret"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Lux Beard Black"
+    }
+  ]
+}

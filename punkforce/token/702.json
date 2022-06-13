@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #702",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/702.png",
+  "dna": "09bab74d8434a1874be3f587c3810a72cd415655",
+  "edition": 702,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Bucket Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Shadow Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Glass Pipe"
+    }
+  ]
+}

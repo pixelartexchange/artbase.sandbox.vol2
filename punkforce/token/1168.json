@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1168",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1168.png",
+  "dna": "a6152dfbf336b07352aa3df06832d7b898e243b6",
+  "edition": 1168,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Mutton Chops"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

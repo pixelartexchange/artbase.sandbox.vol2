@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #686",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/686.png",
+  "dna": "51ff32e2e2add12024b3fd9c32447e94d71bc4e4",
+  "edition": 686,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cap Backwards"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR White"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Vape"
+    }
+  ]
+}

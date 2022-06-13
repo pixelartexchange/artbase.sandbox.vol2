@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2503",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2503.png",
+  "dna": "dcf2eead956bb65c7b7406a73bc9a83eb9a056c5",
+  "edition": 2503,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bucket Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Visor Gold"
+    }
+  ]
+}

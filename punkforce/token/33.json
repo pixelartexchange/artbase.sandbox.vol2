@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #33",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/33.png",
+  "dna": "0f2a8f8992ef074b2288b8842ea4142604a1100b",
+  "edition": 33,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cap Backwards"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Blue"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Blunt"
+    }
+  ]
+}

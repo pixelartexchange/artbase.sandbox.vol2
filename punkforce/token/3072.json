@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #3072",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3072.png",
+  "dna": "e4e81962782d7fb264d11a675cbaf5cfac13eac7",
+  "edition": 3072,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Ponytail"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Glass Pipe"
+    }
+  ]
+}

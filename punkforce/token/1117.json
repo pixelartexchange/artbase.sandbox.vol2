@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1117",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1117.png",
+  "dna": "de28d25d457ec50a2c258550e8a7cf57fe143892",
+  "edition": 1117,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Knitted Cap"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Beard Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Blue"
+    }
+  ]
+}

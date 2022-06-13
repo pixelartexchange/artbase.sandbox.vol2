@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1838",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1838.png",
+  "dna": "46e5a4bc77e1dfb8b11c8ad3c3cd3cc63f884d74",
+  "edition": 1838,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    }
+  ]
+}

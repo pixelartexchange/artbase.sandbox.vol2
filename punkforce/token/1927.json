@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1927",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1927.png",
+  "dna": "91471f9e9f673e635026d8601094d6340d9a68da",
+  "edition": 1927,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 7"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Swept Black"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Beard Black"
+    }
+  ]
+}

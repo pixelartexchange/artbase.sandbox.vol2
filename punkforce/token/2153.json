@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2153",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2153.png",
+  "dna": "7c8ec7f826f85c58fa61235690500491a81c6787",
+  "edition": 2153,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black Cyborg Implant"
+    }
+  ]
+}

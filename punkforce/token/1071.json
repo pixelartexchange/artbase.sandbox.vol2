@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1071",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1071.png",
+  "dna": "53247a9e819b2d9f0e1b62c44d4125fb0be96b26",
+  "edition": 1071,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Messy Brown"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    }
+  ]
+}

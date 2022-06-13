@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1960",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1960.png",
+  "dna": "95fbc80391600b39a5741ebba40b846909f8aeff",
+  "edition": 1960,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 11"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cyborg Implant 3"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    }
+  ]
+}

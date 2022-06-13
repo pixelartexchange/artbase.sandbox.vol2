@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #96",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/96.png",
+  "dna": "ca6c071383aee0c68ca7b1202efb2257e72542b8",
+  "edition": 96,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Goth Shades"
+    }
+  ]
+}

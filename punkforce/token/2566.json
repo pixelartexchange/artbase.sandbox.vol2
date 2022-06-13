@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #2566",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2566.png",
+  "dna": "e8b06d3196da3d6374a8197e90835d58e9760b7e",
+  "edition": 2566,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pixel Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Hookah"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1618",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1618.png",
+  "dna": "059aeb4918994c7f1cd9bd685cc77f96e59290be",
+  "edition": 1618,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Messy Red"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chinstrap Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Green"
+    }
+  ]
+}

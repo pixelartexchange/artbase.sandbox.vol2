@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1200",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1200.png",
+  "dna": "aa0a75760d7b1f770da5e1a603e1729a8b5b279f",
+  "edition": 1200,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cowboy Hat"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pixel Shades"
+    }
+  ]
+}

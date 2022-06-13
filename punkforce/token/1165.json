@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1165",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1165.png",
+  "dna": "1137d53207eb0b5a43ce8b9361deaa020b6a1269",
+  "edition": 1165,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Ponytail"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Joint"
+    }
+  ]
+}

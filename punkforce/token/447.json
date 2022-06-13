@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #447",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/447.png",
+  "dna": "643b65eebe58ff2ef8490fe081d8bb36d91aca70",
+  "edition": 447,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Green"
+    }
+  ]
+}

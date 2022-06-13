@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #2",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2.png",
+  "dna": "921be7f92d0a0febd6285d378a8ab1809b2a7547",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spiky"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Lux Beard Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pixel Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #100",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/100.png",
+  "dna": "ebcb080ba9596fd418dca4cf3e9eb1f8d6c1b32f",
+  "edition": 100,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair Blonde"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Hookah"
+    }
+  ]
+}

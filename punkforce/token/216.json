@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #216",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/216.png",
+  "dna": "53defc96be01f0fcb713a992d0a0187ed1532bce",
+  "edition": 216,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Big Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pixel Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Joint"
+    }
+  ]
+}

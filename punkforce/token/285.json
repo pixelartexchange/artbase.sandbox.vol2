@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #285",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/285.png",
+  "dna": "b4e18028c3c30d87c8a2d0bb340f400f3e770c09",
+  "edition": 285,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 9"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wild Hair Blue"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    }
+  ]
+}

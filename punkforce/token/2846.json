@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2846",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2846.png",
+  "dna": "57536021b7870ef7e5b937b86dc091a79bd0e124",
+  "edition": 2846,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate Black"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Blue"
+    }
+  ]
+}

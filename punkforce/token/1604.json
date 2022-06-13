@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1604",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1604.png",
+  "dna": "cfeb30792d8984f36e8da93d8c9993f2baf85a7d",
+  "edition": 1604,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 5"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cap Backwards"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Lux Beard Gray"
+    }
+  ]
+}

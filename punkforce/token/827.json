@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #827",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/827.png",
+  "dna": "77078318c68578fe12f80987face3b36400688f6",
+  "edition": 827,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cap"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chinstrap Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    }
+  ]
+}

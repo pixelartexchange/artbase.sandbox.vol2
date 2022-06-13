@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1765",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1765.png",
+  "dna": "0ad11405478e049d75abf7b5a2523861f26e6c76",
+  "edition": 1765,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Big Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Visor Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Hookah"
+    }
+  ]
+}

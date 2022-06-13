@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1074",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1074.png",
+  "dna": "1cd9ae227acef9ef23d0386e3fd6fe7b2aca0945",
+  "edition": 1074,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mononoke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Glass Pipe"
+    }
+  ]
+}

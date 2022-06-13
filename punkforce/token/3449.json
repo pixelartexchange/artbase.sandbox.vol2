@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #3449",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3449.png",
+  "dna": "bdf6e6e9736a828ea216d6100d9d05e34dbd3d38",
+  "edition": 3449,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 7"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #138",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/138.png",
+  "dna": "331465686058869d49da048a5c93a2926e223197",
+  "edition": 138,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cyborg Implant 3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Mask"
+    }
+  ]
+}

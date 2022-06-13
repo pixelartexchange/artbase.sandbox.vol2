@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #718",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/718.png",
+  "dna": "f60042c6382bb96601fcc4c515daf4066b601f57",
+  "edition": 718,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Beard Brown"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Vape"
+    }
+  ]
+}

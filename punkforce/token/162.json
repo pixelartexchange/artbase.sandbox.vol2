@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #162",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/162.png",
+  "dna": "bd231d100a246b85ce22a3583aa0ad8c6936032c",
+  "edition": 162,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 12"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cowboy Hat"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Brown"
+    }
+  ]
+}

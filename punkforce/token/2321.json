@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #2321",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2321.png",
+  "dna": "75163957005b999019ac3c05a6938532202aa5c6",
+  "edition": 2321,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Captain Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Shadow Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Blunt"
+    }
+  ]
+}

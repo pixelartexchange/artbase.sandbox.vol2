@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1134",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1134.png",
+  "dna": "74e38f28d01e585fc2ad90e8e010ceef3372ef2c",
+  "edition": 1134,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyborg Black Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    }
+  ]
+}

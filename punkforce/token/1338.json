@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1338",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1338.png",
+  "dna": "e2bc237ed0edf717fee2d892ff61b7294e313ba9",
+  "edition": 1338,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Monocle"
+    }
+  ]
+}

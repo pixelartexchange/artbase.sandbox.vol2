@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1569",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1569.png",
+  "dna": "8562a9745a632c2568ca3c3d5a98eb0442d15b87",
+  "edition": 1569,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Loose Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Joint"
+    }
+  ]
+}

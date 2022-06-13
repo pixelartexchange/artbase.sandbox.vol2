@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #191",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/191.png",
+  "dna": "294f9ed3ed5c9466fe2b11d41afe2e3bca3465cc",
+  "edition": 191,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Headband"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    }
+  ]
+}

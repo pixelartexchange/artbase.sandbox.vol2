@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #816",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/816.png",
+  "dna": "2fdd3c21f36e9fc3fa083a7248d70cd7bcfd42ca",
+  "edition": 816,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flat Top Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Cyborg Spark"
+    }
+  ]
+}

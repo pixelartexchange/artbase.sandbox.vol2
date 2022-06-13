@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2617",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2617.png",
+  "dna": "8312206b1dadc4c557c0901bc32fa7466609548a",
+  "edition": 2617,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wild Hair Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #147",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/147.png",
+  "dna": "9ce9eaf7de41db2bdccdbc76079a5c977bdc53e7",
+  "edition": 147,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wild Hair Blue"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Beard Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    }
+  ]
+}

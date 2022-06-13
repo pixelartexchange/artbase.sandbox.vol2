@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #3258",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3258.png",
+  "dna": "3823546eb5a74b7559af2b8fd3dbcdf7ca28b937",
+  "edition": 3258,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cowgirl Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Lipstick"
+    }
+  ]
+}

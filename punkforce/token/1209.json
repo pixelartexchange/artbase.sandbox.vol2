@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1209",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1209.png",
+  "dna": "5401b9947125640039d31f8c19e99d19c2abacf7",
+  "edition": 1209,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Bucket Hat"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

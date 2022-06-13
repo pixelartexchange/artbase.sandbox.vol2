@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #379",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/379.png",
+  "dna": "eaa0ca117047d2ddee8e9562183d565cf8801381",
+  "edition": 379,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Blue"
+    }
+  ]
+}

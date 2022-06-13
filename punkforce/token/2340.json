@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2340",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2340.png",
+  "dna": "71e52478aaca90f1c129ec5bf5cfb7264b2cea29",
+  "edition": 2340,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Cowboy Hat"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pixel Shades"
+    }
+  ]
+}

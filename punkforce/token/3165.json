@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #3165",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3165.png",
+  "dna": "8d2abffe092f1c1cbfe01323d4c4f5f8b9002deb",
+  "edition": 3165,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Red"
+    }
+  ]
+}

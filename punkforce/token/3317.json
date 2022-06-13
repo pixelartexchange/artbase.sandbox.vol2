@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #3317",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3317.png",
+  "dna": "5ad47d02a2e510ca77b8f9ebc749493de3e05223",
+  "edition": 3317,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 13"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyborg Black Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hetero"
+    }
+  ]
+}

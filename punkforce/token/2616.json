@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2616",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2616.png",
+  "dna": "4284d8ed7eba4fbb67b1e483e64f85db642661d8",
+  "edition": 2616,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "white"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Blue"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Blunt"
+    }
+  ]
+}

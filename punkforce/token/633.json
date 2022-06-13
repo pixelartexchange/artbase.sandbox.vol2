@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #633",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/633.png",
+  "dna": "7245d177e5d4a31aada15a95c98a2de4b9e4bc40",
+  "edition": 633,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Beret"
+    }
+  ]
+}

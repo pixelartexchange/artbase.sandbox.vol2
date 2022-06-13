@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2073",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2073.png",
+  "dna": "0546e2dc378caf7fae323a18016ab16ff74db6c3",
+  "edition": 2073,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cowboy Hat"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Blue"
+    }
+  ]
+}

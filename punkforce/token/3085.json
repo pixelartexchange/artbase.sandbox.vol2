@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #3085",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3085.png",
+  "dna": "01ecd33db02e9e7888a965521eb5bbcefdb869b1",
+  "edition": 3085,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 7 "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Blue"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Blunt"
+    }
+  ]
+}

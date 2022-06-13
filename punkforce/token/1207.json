@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1207",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1207.png",
+  "dna": "436bc8e4b6439a0a4d788e1cc5405f6076f15883",
+  "edition": 1207,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mutated"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Messy Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #1075",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1075.png",
+  "dna": "7ee185121e9d27109a2cd26946829773198a4b0d",
+  "edition": 1075,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Loose Beanie"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Blood"
+    }
+  ]
+}

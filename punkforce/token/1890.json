@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1890",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1890.png",
+  "dna": "e7eb3665b405955270d8a08ce5751c36263a169f",
+  "edition": 1890,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 11"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spiky"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Beard Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    }
+  ]
+}

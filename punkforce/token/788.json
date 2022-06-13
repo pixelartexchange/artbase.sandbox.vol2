@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #788",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/788.png",
+  "dna": "d9b2a8390a19934148edd06a2dd3512fee68f176",
+  "edition": 788,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cap Backwards"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hetero"
+    }
+  ]
+}

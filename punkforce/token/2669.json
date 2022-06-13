@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2669",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2669.png",
+  "dna": "f8d03c4e67f16c64720b9f911058047e91724113",
+  "edition": 2669,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Loose Beanie"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    }
+  ]
+}

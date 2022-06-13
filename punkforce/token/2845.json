@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #2845",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2845.png",
+  "dna": "a01ebf3fb937cdbcb81e1927a1809e2ace1baf27",
+  "edition": 2845,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mutated"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Big Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pixel Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    }
+  ]
+}

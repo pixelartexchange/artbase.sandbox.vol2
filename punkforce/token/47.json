@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #47",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/47.png",
+  "dna": "199af19b87478b2bb34c3ff32f4c2ee31abc44f1",
+  "edition": 47,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 7"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mid Part"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyborg Blue Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    }
+  ]
+}

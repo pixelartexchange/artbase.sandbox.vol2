@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #641",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/641.png",
+  "dna": "f13e0a220fdfff7c413e97bb43110592917c94bc",
+  "edition": 641,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    }
+  ]
+}

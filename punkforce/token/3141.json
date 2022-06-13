@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #3141",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3141.png",
+  "dna": "d9bb4423b9c03be1c639bed32d3e657854fd0125",
+  "edition": 3141,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cyborg Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Brown"
+    }
+  ]
+}

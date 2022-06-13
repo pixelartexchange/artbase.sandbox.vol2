@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1375",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1375.png",
+  "dna": "c0690b919c621432f22437cdd686fbd9930e4ea3",
+  "edition": 1375,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2606",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2606.png",
+  "dna": "1a843c75a467c865c5b044fdc29130c299890a16",
+  "edition": 2606,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Infected"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Police Hat Black"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Visor Blue"
+    }
+  ]
+}

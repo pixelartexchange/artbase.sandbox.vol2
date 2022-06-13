@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2547",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2547.png",
+  "dna": "906aa84c3ae2245ae5a03e93f8d631ef97598b13",
+  "edition": 2547,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald Top"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Visor Gold"
+    }
+  ]
+}

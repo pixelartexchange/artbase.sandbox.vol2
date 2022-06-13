@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2335",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2335.png",
+  "dna": "079c456e315487c1fcf6e4191fbe3cec20b1fbbb",
+  "edition": 2335,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Goth Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    }
+  ]
+}

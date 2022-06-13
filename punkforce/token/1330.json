@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1330",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1330.png",
+  "dna": "87d233c7cc560e89fdae117178262a220520053d",
+  "edition": 1330,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cap Backwards"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Blue"
+    }
+  ]
+}

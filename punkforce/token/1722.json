@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #1722",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1722.png",
+  "dna": "933d617fc32a6e2b7c2e22793171bb2c636fb3f2",
+  "edition": 1722,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 2"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Knitted Cap"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    }
+  ]
+}

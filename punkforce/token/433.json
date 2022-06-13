@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #433",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/433.png",
+  "dna": "b7ed4260db8849ecdb47ed43ab0df0a825003bb3",
+  "edition": 433,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 9"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brain"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Mask"
+    }
+  ]
+}

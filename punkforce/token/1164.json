@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1164",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1164.png",
+  "dna": "93043c9ceb32fea277c7f3e5031ef32a5a5ae5f5",
+  "edition": 1164,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    }
+  ]
+}

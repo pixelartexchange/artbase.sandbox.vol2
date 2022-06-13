@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2515",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2515.png",
+  "dna": "227e6d34dfe1c4ad8aa9a16172ae0136e0bcfadf",
+  "edition": 2515,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cyborg Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Knitted Cap"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chinstrap White"
+    }
+  ]
+}

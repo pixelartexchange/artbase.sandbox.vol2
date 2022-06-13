@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #544",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/544.png",
+  "dna": "fc407df0fbed7f85228ca950ba869834c2f7c2f2",
+  "edition": 544,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 5"
+    }
+  ]
+}

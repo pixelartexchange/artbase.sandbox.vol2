@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1187",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1187.png",
+  "dna": "6ea6d698ea21f6faf6a0e1c5196283306c1b8b3d",
+  "edition": 1187,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Shadow Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Vape"
+    }
+  ]
+}

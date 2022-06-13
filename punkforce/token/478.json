@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #478",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/478.png",
+  "dna": "4f79693c23209e4e0c222eb12a67a52456152bda",
+  "edition": 478,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chinstrap White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Green"
+    }
+  ]
+}

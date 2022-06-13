@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #2286",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2286.png",
+  "dna": "ca6ebb6166066941df429b4f4a2fa63111f3d62e",
+  "edition": 2286,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Curly"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Stubble"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Black"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #305",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/305.png",
+  "dna": "30206b5b4f63a5bf31a7e1a94371448a2680e008",
+  "edition": 305,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shaved Light"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Black"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

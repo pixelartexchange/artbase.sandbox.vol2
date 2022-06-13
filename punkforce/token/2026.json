@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #2026",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2026.png",
+  "dna": "2e2b2c51cbe1504e5a5364da0fcb8991ae6a9e72",
+  "edition": 2026,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 7"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Swept Black"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Green"
+    }
+  ]
+}

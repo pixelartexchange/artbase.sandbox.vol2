@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #560",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/560.png",
+  "dna": "2cc8f0ce4764398a6948befdf702c4ddc05c0a12",
+  "edition": 560,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Visor Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Glass Pipe"
+    }
+  ]
+}

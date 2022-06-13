@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1049",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1049.png",
+  "dna": "00178f2f9f7744c12f7a15af32684ee5db004961",
+  "edition": 1049,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Joint"
+    }
+  ]
+}

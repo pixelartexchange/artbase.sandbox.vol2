@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #2165",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2165.png",
+  "dna": "136524a836ed360ff0e2aff3bbab29322d0cc1de",
+  "edition": 2165,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chameleon Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Green"
+    }
+  ]
+}

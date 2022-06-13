@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #2188",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2188.png",
+  "dna": "4ad112202bede1bca3b213a1b6cacff58f4c25bd",
+  "edition": 2188,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Visor Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Joint"
+    }
+  ]
+}

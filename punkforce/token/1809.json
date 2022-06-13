@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #1809",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1809.png",
+  "dna": "962edd708cc91993e4979ed5cfb342b413e69794",
+  "edition": 1809,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "white"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Blue"
+    }
+  ]
+}

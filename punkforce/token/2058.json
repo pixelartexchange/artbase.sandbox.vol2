@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2058",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2058.png",
+  "dna": "841265011202512c938664a16f25b562fd5a3566",
+  "edition": 2058,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cyborg Mohawk"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pixel Shades"
+    }
+  ]
+}

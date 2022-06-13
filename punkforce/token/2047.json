@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #2047",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2047.png",
+  "dna": "2bce0b5a8f04125f2098f7ce1faf505c05a772ee",
+  "edition": 2047,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Knitted Cap"
+    }
+  ]
+}

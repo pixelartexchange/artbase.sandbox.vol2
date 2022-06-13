@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #3199",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3199.png",
+  "dna": "69dbcb0b662b57f2cd8c11a5ac3a961b35e2e03e",
+  "edition": 3199,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Infected"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cap Backwards"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Blonde"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1400",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1400.png",
+  "dna": "ff56fc9c6cac5caa743e8f2ea9d539c0fb961981",
+  "edition": 1400,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Visor Blue"
+    }
+  ]
+}

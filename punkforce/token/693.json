@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #693",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/693.png",
+  "dna": "596066d491b76dcbbd0e968e0cbcbaa6ac713d17",
+  "edition": 693,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Buns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Goth Shades"
+    }
+  ]
+}

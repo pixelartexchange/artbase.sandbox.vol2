@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2401",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2401.png",
+  "dna": "72d74ca7939c9890966a86ece9bac5b9d7325776",
+  "edition": 2401,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Messy Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Lipstick"
+    }
+  ]
+}

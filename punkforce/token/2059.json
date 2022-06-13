@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2059",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2059.png",
+  "dna": "694b8eca63122c7efc2ca7824125836d1a749726",
+  "edition": 2059,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 5"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Red"
+    }
+  ]
+}

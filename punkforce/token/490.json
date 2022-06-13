@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #490",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/490.png",
+  "dna": "1b6faed15c7c51d38a1ceb0b94543cd701b0a09f",
+  "edition": 490,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Goth Shades"
+    }
+  ]
+}

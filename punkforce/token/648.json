@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #648",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/648.png",
+  "dna": "10b1a98d307d3d365f4d7bc82542d78f0d619bf6",
+  "edition": 648,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 7"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow Head"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Goth Shades"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Blunt"
+    }
+  ]
+}

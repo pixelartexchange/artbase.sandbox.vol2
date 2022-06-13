@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #3296",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3296.png",
+  "dna": "972e01fde1fc53ce6889313315200488c98a4bdb",
+  "edition": 3296,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain Hat"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Orange"
+    }
+  ]
+}

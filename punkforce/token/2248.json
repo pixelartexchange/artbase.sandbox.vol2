@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2248",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2248.png",
+  "dna": "7fc353950de175884c014bf3557e1b79d43f89db",
+  "edition": 2248,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Infected"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spiky"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat Blonde"
+    }
+  ]
+}

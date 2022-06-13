@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #905",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/905.png",
+  "dna": "42564a59326e4b9ae3619652836ab46e68715193",
+  "edition": 905,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Energy Band"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Modern Shades"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

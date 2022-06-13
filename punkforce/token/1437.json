@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #1437",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1437.png",
+  "dna": "6f763fc86f4ab1fbf7496894e52cc5ccf7c176c2",
+  "edition": 1437,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mid Part"
+    }
+  ]
+}

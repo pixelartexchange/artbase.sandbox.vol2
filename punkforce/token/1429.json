@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1429",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1429.png",
+  "dna": "b79c17e8a8d911a270a4716c8d13b89a1a85b5e3",
+  "edition": 1429,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cyborg Implant 2"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Beard Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    }
+  ]
+}

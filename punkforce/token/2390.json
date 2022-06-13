@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2390",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2390.png",
+  "dna": "09efc70500adb3bd61c122f79b17bf26ae82781d",
+  "edition": 2390,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bucket Hat"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Orange"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2744",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2744.png",
+  "dna": "b3166e2d56f0e3a3ba023582a042970e903d37e6",
+  "edition": 2744,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Messy Red"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Black"
+    }
+  ]
+}

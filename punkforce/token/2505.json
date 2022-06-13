@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2505",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2505.png",
+  "dna": "7997811eab2eddbf303d2f23aea64f4353b9cae7",
+  "edition": 2505,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Blonde Dreads"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chinstrap White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hetero"
+    }
+  ]
+}

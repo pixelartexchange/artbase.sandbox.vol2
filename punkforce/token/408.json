@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #408",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/408.png",
+  "dna": "ce153127917625adc4f15e5bda7ab154d59161d3",
+  "edition": 408,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gold Frame"
+    }
+  ]
+}

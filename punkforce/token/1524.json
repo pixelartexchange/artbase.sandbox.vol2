@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1524",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1524.png",
+  "dna": "dabf1ad7822a2d3cccc4790db3592e65c9129742",
+  "edition": 1524,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 16"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyborg Blue Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Blue"
+    }
+  ]
+}

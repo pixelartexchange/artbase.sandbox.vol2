@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #1332",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1332.png",
+  "dna": "9f64e7c4a22c8679ecc1d1f8f8f4fbad64963e25",
+  "edition": 1332,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Loose Beanie"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Beard Brown"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #158",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/158.png",
+  "dna": "fa4b2bc6d5b654dab13e7cbe1cd9c985d540fa0a",
+  "edition": 158,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Pigtails"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Modern Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    }
+  ]
+}

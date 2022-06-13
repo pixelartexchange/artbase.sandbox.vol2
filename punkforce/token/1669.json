@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #1669",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1669.png",
+  "dna": "9adf4268c9864598f8b6b025a00d9d327d0c33e7",
+  "edition": 1669,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 13"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair Blonde"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Joint"
+    }
+  ]
+}

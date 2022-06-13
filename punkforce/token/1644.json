@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #1644",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1644.png",
+  "dna": "134be2a4820e0f1bc6efa1c60c8889254bd3b413",
+  "edition": 1644,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wild Hair Blue"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Gray"
+    }
+  ]
+}

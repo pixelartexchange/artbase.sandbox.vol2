@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #694",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/694.png",
+  "dna": "2b61650a907968901a49a4dd3349049dd3b1a1d4",
+  "edition": 694,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 5"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Red"
+    }
+  ]
+}

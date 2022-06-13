@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #581",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/581.png",
+  "dna": "43cc6941bd150e1064f79973c9c651a8853e1086",
+  "edition": 581,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mid Part"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ghost"
+    }
+  ]
+}

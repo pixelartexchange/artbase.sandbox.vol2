@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2885",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2885.png",
+  "dna": "e41c37b710b2db5fbfa4c66f2c5795119265920d",
+  "edition": 2885,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap Backwards"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hetero"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Blood"
+    }
+  ]
+}

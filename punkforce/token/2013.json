@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2013",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2013.png",
+  "dna": "fa69f7a74193121b020b2510c85b29d6b0f5702e",
+  "edition": 2013,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bucket Hat"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Beard Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Modern Shades"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1537",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1537.png",
+  "dna": "719de86e5235e7cf4b59e26ee9a167afeb5276b8",
+  "edition": 1537,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 3"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cowgirl Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Shadow black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    }
+  ]
+}

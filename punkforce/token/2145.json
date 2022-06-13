@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2145",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2145.png",
+  "dna": "fbc637cc0c4e3adc4eef80a2a6ce6dcfb3fb29c7",
+  "edition": 2145,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyborg Black Mask"
+    }
+  ]
+}

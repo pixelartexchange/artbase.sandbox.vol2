@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1692",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1692.png",
+  "dna": "8cc739eebf21bbe51ad44ff35962e2683c6d796b",
+  "edition": 1692,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    }
+  ]
+}

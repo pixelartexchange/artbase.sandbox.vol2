@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1929",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1929.png",
+  "dna": "b14408423abdb612c4d89ff6c1187c03ec7cc831",
+  "edition": 1929,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Pigtails"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    }
+  ]
+}

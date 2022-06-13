@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #3487",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3487.png",
+  "dna": "50d2a957400a2d1d39c3921427c8de64ed258deb",
+  "edition": 3487,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Green"
+    }
+  ]
+}

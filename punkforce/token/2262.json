@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2262",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2262.png",
+  "dna": "ae5abe107f6ef9f5b96ec056085d6b455b276503",
+  "edition": 2262,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Bucket Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 1"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #907",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/907.png",
+  "dna": "9cbaad562b5fac413ab7637aed711f9ce3405c96",
+  "edition": 907,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Mohawk"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Blonde"
+    }
+  ]
+}

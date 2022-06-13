@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #3239",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3239.png",
+  "dna": "7214c5bec1af36a6bf6b08f8259270d6058898a7",
+  "edition": 3239,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyborg Black Mask"
+    }
+  ]
+}

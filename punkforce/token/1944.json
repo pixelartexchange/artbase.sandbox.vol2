@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1944",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1944.png",
+  "dna": "0a4ff2fd355ac37187d4cb3b789b277d0941eaed",
+  "edition": 1944,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 5"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wild Hair White"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Blonde"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #1235",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1235.png",
+  "dna": "1ccdcf4ef2bbfc9809051985c95d399bc86691b0",
+  "edition": 1235,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Energy Band"
+    }
+  ]
+}

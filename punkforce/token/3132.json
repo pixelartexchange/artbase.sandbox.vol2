@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #3132",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3132.png",
+  "dna": "abae5bd0a9d7c9ad1982bf2656f87aea0d890aa6",
+  "edition": 3132,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Knitted Cap"
+    }
+  ]
+}

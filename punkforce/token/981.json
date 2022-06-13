@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #981",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/981.png",
+  "dna": "9a2b4cd1c65ac04edf5b1840decb3662a5a136ad",
+  "edition": 981,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cap Backwards"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #859",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/859.png",
+  "dna": "df367fe1a37403d9041bf884bb7c7c03efc37b40",
+  "edition": 859,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Shadow black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Lipstick"
+    }
+  ]
+}

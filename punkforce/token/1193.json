@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #1193",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1193.png",
+  "dna": "be6e8d566431a526b3ea9510cee0e310fb8f4b97",
+  "edition": 1193,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Visor Blue"
+    }
+  ]
+}

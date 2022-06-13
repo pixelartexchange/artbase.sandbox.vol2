@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #3397",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3397.png",
+  "dna": "d4b5e61ad8a2e829dc204800bf776e18c3295107",
+  "edition": 3397,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR White"
+    }
+  ]
+}

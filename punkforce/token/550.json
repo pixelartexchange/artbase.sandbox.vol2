@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #550",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/550.png",
+  "dna": "33e473fe2677206dcf2118d3b7abc3477a88b555",
+  "edition": 550,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helmet"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Lux Beard Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Green"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

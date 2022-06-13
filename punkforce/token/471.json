@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #471",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/471.png",
+  "dna": "50f84bc90d0448a76b30720645075f9ea1a37c09",
+  "edition": 471,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Cap Backwards"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Orange"
+    }
+  ]
+}

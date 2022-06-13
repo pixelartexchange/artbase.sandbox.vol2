@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #2041",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2041.png",
+  "dna": "f2ae1ff681e5f53f95d6bb93b956d6ce78c3cb40",
+  "edition": 2041,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 9"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Blue"
+    }
+  ]
+}

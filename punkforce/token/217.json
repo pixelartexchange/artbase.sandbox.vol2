@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #217",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/217.png",
+  "dna": "ef8245dbf76d6f1285e06cbcfa0c9889979ba859",
+  "edition": 217,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Royal Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Specs Red"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Glass Pipe"
+    }
+  ]
+}

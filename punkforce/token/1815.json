@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1815",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1815.png",
+  "dna": "42889b5aabc24466f0c0f9ca725997743fdec52f",
+  "edition": 1815,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Loose Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyborg Blue Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Visor Purple"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #3205",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3205.png",
+  "dna": "e5f570a558e2caf81c00a9f7116ab324fd1c69d6",
+  "edition": 3205,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 5"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 4"
+    }
+  ]
+}

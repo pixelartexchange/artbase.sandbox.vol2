@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1791",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1791.png",
+  "dna": "98210bfa5a76d51fc405b5c79a6746e32d8e118f",
+  "edition": 1791,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Vitiligo Dark"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 10"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mid Part"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Mask"
+    }
+  ]
+}

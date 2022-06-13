@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #790",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/790.png",
+  "dna": "b120cfc3197e33d83fe2c885ada480317cf76d04",
+  "edition": 790,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Hachimaki"
+    }
+  ]
+}

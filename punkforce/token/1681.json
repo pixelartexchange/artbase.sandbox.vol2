@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1681",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1681.png",
+  "dna": "87612d779b2dd3bd6e807293a73f7e355aab3e14",
+  "edition": 1681,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cyborg Implant 3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Visor Gold"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Joint"
+    }
+  ]
+}

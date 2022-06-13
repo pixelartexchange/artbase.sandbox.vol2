@@ -1,0 +1,44 @@
+{
+  "name": "PunkForce #785",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/785.png",
+  "dna": "4ee8b5767a2751b0ff4f80e3941e8dd58a251d17",
+  "edition": 785,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mutated"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Lipstick"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Hookah"
+    }
+  ]
+}

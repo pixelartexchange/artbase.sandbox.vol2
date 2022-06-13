@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #450",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/450.png",
+  "dna": "88eb2feb06c8fc0a6e114575712b594ce5af3f06",
+  "edition": 450,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Swept Black"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Lux Beard Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Mask"
+    }
+  ]
+}

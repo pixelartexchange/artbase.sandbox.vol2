@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1402",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1402.png",
+  "dna": "0f3f32588ea330e0b9539a59cd3a1734fdd85389",
+  "edition": 1402,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 8"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flat Top Blonde"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chinstrap Blonde"
+    }
+  ]
+}

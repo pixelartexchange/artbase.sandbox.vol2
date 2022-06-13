@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #523",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/523.png",
+  "dna": "426cab8c3f30b048ae9c3da105fe9952e9c39a59",
+  "edition": 523,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hetero"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Hood"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Black"
+    }
+  ]
+}

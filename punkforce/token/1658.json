@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #1658",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1658.png",
+  "dna": "6a54f75451f2e70138189c1f5b89358fc2a96ab4",
+  "edition": 1658,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Cap Backwards"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handle Bars"
+    }
+  ]
+}

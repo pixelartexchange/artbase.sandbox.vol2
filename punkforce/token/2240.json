@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2240",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2240.png",
+  "dna": "1adf7832c209cfb69f1da475f708d0312241c3a7",
+  "edition": 2240,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Cyborg Spark"
+    }
+  ]
+}

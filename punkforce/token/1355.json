@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1355",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1355.png",
+  "dna": "89bda3541dca74f5fa527d7c1dc388f9261674d3",
+  "edition": 1355,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 6"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Visor Purple"
+    }
+  ]
+}

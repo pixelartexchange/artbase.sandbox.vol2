@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #1307",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1307.png",
+  "dna": "058092bd0b584462e80be01e455ade667eb07544",
+  "edition": 1307,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain Hat"
+    }
+  ]
+}

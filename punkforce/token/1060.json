@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #1060",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1060.png",
+  "dna": "aa783de445e4a29e9c043eede3274014ff330f5f",
+  "edition": 1060,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mutated"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cig"
+    }
+  ]
+}

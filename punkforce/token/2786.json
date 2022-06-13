@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #2786",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2786.png",
+  "dna": "16391a389ee7bd5c914e51e13241138c0be288a8",
+  "edition": 2786,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Hachimaki"
+    }
+  ]
+}

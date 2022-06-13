@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #240",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/240.png",
+  "dna": "e94d0d93fa4f819f6eb7669af691ad52ade25a0f",
+  "edition": 240,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Police Hat Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chameleon Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber Green"
+    }
+  ]
+}

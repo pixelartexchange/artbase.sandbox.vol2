@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #1318",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1318.png",
+  "dna": "f9de42be33a422cba865f05e50904f45275eb460",
+  "edition": 1318,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Cowboy Hat"
+    }
+  ]
+}

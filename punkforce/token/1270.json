@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1270",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1270.png",
+  "dna": "6e4ca4ab5fd83cae8b5145b8338485a0c3b45004",
+  "edition": 1270,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Messy Red"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #3316",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3316.png",
+  "dna": "a0a3230f55ce4a597ba514751854e4a2cc018f63",
+  "edition": 3316,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flat Top Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scar"
+    }
+  ]
+}

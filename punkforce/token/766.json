@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #766",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/766.png",
+  "dna": "33c96b48f5837ba9886b19666a35d305d614c43c",
+  "edition": 766,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mutated"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap Backwards"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Shadow Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    }
+  ]
+}

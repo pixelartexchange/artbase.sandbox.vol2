@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2791",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2791.png",
+  "dna": "a02344d98a8c1803b3f38a54553be88cbba443b2",
+  "edition": 2791,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Blue 5"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Mustache"
+    }
+  ]
+}

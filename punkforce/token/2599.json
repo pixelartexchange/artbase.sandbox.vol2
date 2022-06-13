@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2599",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2599.png",
+  "dna": "7f24c4d74c89cf0e81e5057f8ebfee1694b6a095",
+  "edition": 2599,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black Cyborg Spark"
+    }
+  ]
+}

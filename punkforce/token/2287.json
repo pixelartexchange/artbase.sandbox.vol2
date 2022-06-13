@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2287",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2287.png",
+  "dna": "7c66e04e4548985a2004ca392c177941ebfbd5d2",
+  "edition": 2287,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cowgirl Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Shadow Blue"
+    }
+  ]
+}

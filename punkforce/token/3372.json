@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #3372",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3372.png",
+  "dna": "28edb1c26fb3000a22320e31f4c83ccad93b029c",
+  "edition": 3372,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tiara"
+    }
+  ]
+}

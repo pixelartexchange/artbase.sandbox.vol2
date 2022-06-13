@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #1491",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1491.png",
+  "dna": "f26f3fffc2cc1709faad5620611f8d505be4d977",
+  "edition": 1491,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "Green 10"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gold Crown"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Brown"
+    }
+  ]
+}

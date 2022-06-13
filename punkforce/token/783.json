@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #783",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/783.png",
+  "dna": "658c1d8efc094dcac584fbdaa57053ee0a0285a4",
+  "edition": 783,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cap"
+    }
+  ]
+}

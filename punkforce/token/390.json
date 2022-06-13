@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #390",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/390.png",
+  "dna": "935f26fd08761f0d51c54e1d66cc4a551c71ccdd",
+  "edition": 390,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Green"
+    }
+  ]
+}

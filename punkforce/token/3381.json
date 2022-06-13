@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #3381",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3381.png",
+  "dna": "1d68251b9050279a8fd6a7e54f9752896df02194",
+  "edition": 3381,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate Black"
+    }
+  ]
+}

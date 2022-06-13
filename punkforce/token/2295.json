@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2295",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2295.png",
+  "dna": "99e77f2ea685f40b31b682ce97a6323f3829c83d",
+  "edition": 2295,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR White"
+    }
+  ]
+}

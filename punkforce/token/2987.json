@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #2987",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2987.png",
+  "dna": "e0f2b8e510994d85a6d928f3c297068097bb844a",
+  "edition": 2987,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Pigtails"
+    }
+  ]
+}

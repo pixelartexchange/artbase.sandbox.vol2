@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #1972",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1972.png",
+  "dna": "ed89357416e28201a48b2985eb82c181ef4af6de",
+  "edition": 1972,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Goth Shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Hood"
+    }
+  ]
+}

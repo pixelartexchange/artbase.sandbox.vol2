@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2285",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2285.png",
+  "dna": "ff7f7301f3f8d31500ca62c44a06f107faeaa157",
+  "edition": 2285,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mid Part"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 5"
+    }
+  ]
+}

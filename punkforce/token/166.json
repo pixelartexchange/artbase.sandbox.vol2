@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #166",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/166.png",
+  "dna": "31c1ae1533a215615e332eca78eb57749d27e920",
+  "edition": 166,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Knitted Cap"
+    }
+  ]
+}

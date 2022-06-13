@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #2595",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2595.png",
+  "dna": "6c28ea6c287e0b202cf22ee1bdfa4e4a78f8b0ca",
+  "edition": 2595,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Spiky"
+    }
+  ]
+}

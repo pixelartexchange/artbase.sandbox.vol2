@@ -1,0 +1,24 @@
+{
+  "name": "PunkForce #1248",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1248.png",
+  "dna": "cb8789f5b31907ab43050a9cdaf46703f3432bd4",
+  "edition": 1248,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    }
+  ]
+}

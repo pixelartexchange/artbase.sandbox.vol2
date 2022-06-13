@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #1684",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1684.png",
+  "dna": "6dd0cd4e72d2080e4ea74cbce84672562f2ceab4",
+  "edition": 1684,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lich"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cyborg Mohawk"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard Black"
+    }
+  ]
+}

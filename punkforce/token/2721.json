@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #2721",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2721.png",
+  "dna": "686922e65edc7df09644b3f61fb357eabd0847c1",
+  "edition": 2721,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Darker"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Police Hat Blue"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Gray"
+    }
+  ]
+}

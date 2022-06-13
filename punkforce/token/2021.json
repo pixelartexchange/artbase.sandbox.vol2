@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #2021",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/2021.png",
+  "dna": "19ee5df9f1b0d7c23afb206e3b5d78e91229ba2d",
+  "edition": 2021,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Bucket Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mutant"
+    }
+  ]
+}

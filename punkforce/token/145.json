@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #145",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/145.png",
+  "dna": "f28953cc0087829a00e1b80e2c6d2c1e9fb0cc5d",
+  "edition": 145,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Infected"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate Dark"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Gray"
+    }
+  ]
+}

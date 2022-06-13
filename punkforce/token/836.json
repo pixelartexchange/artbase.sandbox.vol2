@@ -1,0 +1,36 @@
+{
+  "name": "PunkForce #836",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/836.png",
+  "dna": "3f17ed815c017a32f77a4ad125e56f80a6f4ff06",
+  "edition": 836,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Lipstick"
+    }
+  ]
+}

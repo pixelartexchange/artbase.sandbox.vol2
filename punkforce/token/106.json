@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #106",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/106.png",
+  "dna": "e709d374dfb4b704f6d35f5105356b6006ce9320",
+  "edition": 106,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Mutant"
+    }
+  ]
+}

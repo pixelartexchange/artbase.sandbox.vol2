@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #1427",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1427.png",
+  "dna": "a8048c237f1e17a11062983d5413d2d216add7ff",
+  "edition": 1427,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "white"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Headband"
+    }
+  ]
+}

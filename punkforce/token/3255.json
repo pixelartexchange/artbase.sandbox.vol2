@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #3255",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3255.png",
+  "dna": "6a92ae60c0b517e72a5d2daffa23fe0ec4535323",
+  "edition": 3255,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate Black"
+    }
+  ]
+}

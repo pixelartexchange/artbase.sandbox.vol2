@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #480",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/480.png",
+  "dna": "b4416f2dc29bd859e5c4354b750920884b41458d",
+  "edition": 480,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braids"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 5"
+    }
+  ]
+}

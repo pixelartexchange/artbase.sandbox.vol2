@@ -1,0 +1,28 @@
+{
+  "name": "PunkForce #3415",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/3415.png",
+  "dna": "3092276f6c5c6b70476d878504f4c365b9d82577",
+  "edition": 3415,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Cowboy Hat"
+    }
+  ]
+}

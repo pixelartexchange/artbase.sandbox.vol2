@@ -1,0 +1,40 @@
+{
+  "name": "PunkForce #270",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/270.png",
+  "dna": "dba5de6a12d7cc47469a1aa4cc47457a9f52f483",
+  "edition": 270,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Lighter"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 5"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Shadow Green"
+    }
+  ]
+}

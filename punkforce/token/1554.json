@@ -1,0 +1,32 @@
+{
+  "name": "PunkForce #1554",
+  "image": "ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/1554.png",
+  "dna": "94e3202b578d79dfb84d564d0f82e0027c2c0fc8",
+  "edition": 1554,
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cyber Mask 1"
+    }
+  ]
+}
