@@ -44,6 +44,7 @@ def make_punks( base, paths, hair: nil, hair_color: nil )
          img.compose!( attribute )   ## skip/overwrite passed in hair
       elsif basename.start_with?( 'tattoo' ) ||
             basename.start_with?( 'facepaint' ) ||
+            basename.start_with?( 'mask' ) ||
             basename.start_with?( 'eyes')
          img.compose!( attribute )
          img.compose!( hair )   if hair
@@ -79,7 +80,6 @@ EMPTY = Image.new( 24, 24 )
 
 punks += make_punks( BASE1, attributes, hair: SHORT_HAIR_RED,
                                         hair_color: 'red'  )
-punks += [EMPTY, EMPTY, EMPTY, EMPTY, EMPTY]
 punks += make_punks( BASE3, attributes, hair: WET_HAIR_BLONDE,
                                         hair_color: 'blonde' )
 
