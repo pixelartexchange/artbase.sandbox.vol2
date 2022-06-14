@@ -9,7 +9,7 @@ COLLECTION = TokenCollection.new( 'punkforce', 3500,
                      token_base: 'ipfs://bafybeid7xkhswlyulchs4kabof67ieypkwrsyk4xjf7qxcwrfle52kegwq/{id}.json',
                      image_base: 'ipfs://bafybeiau6as5g7zojdiu4orfkgdohphyu2avejaeau3whnzqsfsmaw5a4i/{id}.png',
                      format: '24x24',
-                     source: '1400x1400',
+                     source: ['1400x1400', '1440x1440'],
                      offset: 1
 )
 
