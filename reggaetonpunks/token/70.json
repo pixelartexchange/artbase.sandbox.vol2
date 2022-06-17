@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #70",
+  "description": "ReggaetonPunk #70",
+  "image": "https://lh3.googleusercontent.com/SEzsKVAswo7NOeg42i6aK74HDR4JzSuXJY5RebWco2ed8YAL2r7nlPv1atqbAbdka5oOtiTXckzNHa9Tnak_jLqXRSr5CWrkO6nljQ",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Character",
+      "value": "DJ Playero"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #1",
+  "description": "ReggaetonPunk #1",
+  "image": "https://lh3.googleusercontent.com/bwEq-Szc_ugjcuJfkMDjIulDQqegRmMcevfDQa8-mmw8i9bIQBdGglRMuM4GhnN8_N4c2OPpsdN940gqy1AYQjW_BRlny3lA6FRufQ",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "J Balvin"
+    },
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Original"
+    }
+  ]
+}

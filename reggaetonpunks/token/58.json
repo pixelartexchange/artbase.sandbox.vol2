@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #58",
+  "description": "ReggaetonPunk #58",
+  "image": "https://lh3.googleusercontent.com/kE0dWDKu1ZC08tJ5WBWQVU_hSpXOxf4ZS3Oz-dL6ANnm7_-RXx1w8vRNFLRntjgMtiQXJVT6soJe3ZVXhi9-QXIUlLSfYgRECGqq",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Hector el Father"
+    },
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "White"
+    }
+  ]
+}

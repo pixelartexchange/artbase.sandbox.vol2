@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #12",
+  "description": "ReggaetonPunk #12",
+  "image": "https://lh3.googleusercontent.com/5HpJP5K_3NjkcOP9fCvzeaIKXpl2_a37DZPYyszUyrzSXT8ZDiiNdalUHMGB1IzCRCx8fQqm8NfL6WFRTzXonEOJUYlfRJxmKxai3vQ",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Farruko"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ]
+}

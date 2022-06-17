@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #50",
+  "description": "ReggaetonPunk #50",
+  "image": "https://lh3.googleusercontent.com/5ji6XwBVZfWC-GlWNOoxmtyWvIV0m9JWFm2JZfe8fg5TDJKXvDTvhDf_rk_s9lTqNRlyB5vZnzqNWH66D04hY3C9ABeJc2cT4auu",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Nicky Jam"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    }
+  ]
+}

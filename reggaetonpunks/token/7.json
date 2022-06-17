@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #7",
+  "description": "ReggaetonPunk #7",
+  "image": "https://lh3.googleusercontent.com/d_fPjBe1dSK1FwTrdRR2LkyLdN_7jWlDQX_s5xDOBawmU_xMxQy0NT6aSj-80OBRM47iw7bVt5syiiEU8sGVRX53sX-iUqeInFWM",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Fan"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Original"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #42",
+  "description": "ReggaetonPunk #42",
+  "image": "https://lh3.googleusercontent.com/IWaK1fU_oAi27rFdvMafdd6hb56uiSVD1G1EPbOPfk_OL41SrzMlWPfrWgOritYJbmLOv8KgFIUDl-RQ11CC_7qHv8URxruFSeJjcGw",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Kali Uchis"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "White"
+    }
+  ]
+}

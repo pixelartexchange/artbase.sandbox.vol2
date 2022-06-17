@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #22",
+  "description": "ReggaetonPunk #22",
+  "image": "https://lh3.googleusercontent.com/44vl6f9uWS0t_oTic27q3F_lMOw8xM3Ymbep75A3fRIgOr-AESsSRsFSuYn97w6JQt8BraTNDylauLQWg_ojUxADnddMQqe1ii2fPYo",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Fan"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #33",
+  "description": "ReggaetonPunk #33",
+  "image": "https://lh3.googleusercontent.com/izpHhDvyUUhSLmcn3p5xcKOT4h2DYc8qagUr6x--ztm9McSjFGAbI6RwfHU0EqSLsqX4oTLn7m77Z11Ids57NDM7hgjNKZ47Ny8e",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Character",
+      "value": "DJ Nelson"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ]
+}

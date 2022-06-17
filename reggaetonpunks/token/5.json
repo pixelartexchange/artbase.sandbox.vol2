@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #5",
+  "description": "ReggaetonPunk #5",
+  "image": "https://lh3.googleusercontent.com/IpAZJwEHnwZdthYwf-Ekq1vlw-F22J2yK2BVJjffzYj0NX59dfCbnjZ1168FGQlsFi-MEh3b6ltm8Utk3emPkhUXUSKqcH5SGg_a",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Bad Bunny"
+    }
+  ]
+}

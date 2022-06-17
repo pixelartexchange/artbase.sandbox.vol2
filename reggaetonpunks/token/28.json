@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #28",
+  "description": "ReggaetonPunk #28",
+  "image": "https://lh3.googleusercontent.com/ntQoZoWt_NWIMhI1Mto4OjYcvU5N-d_rFAMiIGUffHupfih3ndBXWORg9iIrvDRZ7dqBI9LvIXK72NIvB-PLEDL8Gui8Vy7x7Y5O",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Fan"
+    }
+  ]
+}

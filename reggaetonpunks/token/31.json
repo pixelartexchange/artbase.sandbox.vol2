@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #31",
+  "description": "ReggaetonPunk #31",
+  "image": "https://lh3.googleusercontent.com/bn5_4eqQTQQE3Z2OPX5nHG3vR9yJhaGc7cB1HewGIlSo3oelnBKBp-KzYtZQ_EuxHzhgDXLua3sqOwWDWeinS5rk0voGKdwqwfFTL6A",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Trebol Clan"
+    }
+  ]
+}

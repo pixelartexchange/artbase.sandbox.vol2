@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #6",
+  "description": "ReggaetonPunk #6",
+  "image": "https://lh3.googleusercontent.com/Pxbn701y02sI8txCXqEB8U1a6WRtv39zYpL9pIDbpclJ_dZWCoAfVMhsPFUwxypZsEx125MdCIRXz_8m48Y4E6Ofro8pdXei4fH_UN4",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Karol G"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Green"
+    }
+  ]
+}

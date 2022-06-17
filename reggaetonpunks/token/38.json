@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #38",
+  "description": "ReggaetonPunk #38",
+  "image": "https://lh3.googleusercontent.com/QMsjYJCa-4SCFxDNr_St_suwdKTHnxswoecIVau121BbNoAyiUuP8rqbdB5KlE8b3ZURud1GpCtReNRSja0hXjs4CcqHqkO-O2XqKSk",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Yandel"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #76",
+  "description": "ReggaetonPunk #76",
+  "image": "https://lh3.googleusercontent.com/RdI0QspNvW2NqfwnvFxbtFbS_xjv7u2AcHqtTe9mQDlpP3btOOa1rJ1TWovI9ibSAjlSNAckbk4ygtgKwGwuFNnHVtQ9kfsual1Oxg",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Lyanno"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    }
+  ]
+}

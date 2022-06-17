@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #30",
+  "description": "ReggaetonPunk #30",
+  "image": "https://lh3.googleusercontent.com/FmzPcl2ilRB13xHw-fMEROG0dn3VNiHf8SIQPBhOWqaMzG5JDAo_RM_bncCM3FzzzJXnaD2sqH6obOIIS3IZqhNFkD_mtTIPmcRnAg",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Fan"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #15",
+  "description": "ReggaetonPunk #15",
+  "image": "https://lh3.googleusercontent.com/FVtMwNb79AAnstnFKMnlHp1FEkW-E8Nq-8LYOEHWZXw928jOtJStqStJk_RIbJcnI5RPAnr53fNj94rQ5MsXSM0dyy_BlLcStoBoVw",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Ivy"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Purple"
+    }
+  ]
+}

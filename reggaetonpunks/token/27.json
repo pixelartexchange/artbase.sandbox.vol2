@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #27",
+  "description": "ReggaetonPunk #27",
+  "image": "https://lh3.googleusercontent.com/cR8mzsPgMk74ayz36SEsc0PpXzqoN6DY0auXqtuScA4xEWqh-Tq8NKO3aAUbN9opcsbNY_7rrQ-PMU69mrrK8Dh1nbHBKpVvr6EBKw",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Jon-Z"
+    },
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "White"
+    }
+  ]
+}

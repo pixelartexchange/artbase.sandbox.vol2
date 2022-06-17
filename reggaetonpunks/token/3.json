@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #3",
+  "description": "ReggaetonPunk #3",
+  "image": "https://lh3.googleusercontent.com/OL63243OXlNGX0EuLSIulP7q9wtb9FzyH5PuCT1fK_yD8T6ldqRRwpdVn8JwKIemg6_DpTrIHV5BwC6F37e-JVBOdGT0Y2bn3jeE8g",
+  "attributes": [
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Ozuna"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Green"
+    }
+  ]
+}

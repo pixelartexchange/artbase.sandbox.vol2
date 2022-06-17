@@ -1,0 +1,23 @@
+{
+  "name": "ReggaetonPunk #51",
+  "description": "ReggaetonPunk #51",
+  "image": "https://lh3.googleusercontent.com/XYoWfdpwthpj5f5X-CjlpSl3xnUPzxY0jkF5MzAgEu7rgwcAH6ceTVpMlhB62U-lc-P6LCB71zYpgr8dn1xEG-KDl_EjdT2nvbQMRw",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Dalex"
+    },
+    {
+      "trait_type": "Has Music",
+      "value": "No"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "White"
+    }
+  ]
+}
