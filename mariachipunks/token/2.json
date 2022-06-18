@@ -1,0 +1,31 @@
+{
+  "name": "José Peregrino",
+  "description": "This is José Peregrino. He is a Mariachi Punk. He plays the violin on his mariachi band. He named his violin Rosalba. He wants to go to Iceland.",
+  "image": "https://lh3.googleusercontent.com/qALaiJqdHMp1KPimn6_XQIQheL2L1Q_ZVvg8S01e5U00kBS1xMTs755t0lJbmGiEMSnqJ9OI2XXef-PJHcgM1cJWCPVn0YTTqwRNCA",
+  "attributes": [
+    {
+      "trait_type": "Occupation",
+      "value": "Mariachi Punk"
+    },
+    {
+      "trait_type": "Name",
+      "value": "José Peregrino"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Violin"
+    },
+    {
+      "trait_type": "Shows Played",
+      "value": "2151"
+    },
+    {
+      "trait_type": "Other",
+      "value": "Iceland"
+    },
+    {
+      "trait_type": "Violin",
+      "value": "Rosalba"
+    }
+  ]
+}

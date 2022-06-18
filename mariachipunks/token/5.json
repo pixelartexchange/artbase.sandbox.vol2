@@ -1,0 +1,27 @@
+{
+  "name": "Aurora",
+  "description": "This is Aurora. She is a Mariachi Punk. She plays the harp in her mariachi band. As her other bandmates she has been out of gigs for more than a year now. She loves Tequila and takes it straight. Her drinking buddy is Alfredo, her dog. Alfredo is nice, but not with everybody. In the meantime she trains dogs and teaches them singing lessons.",
+  "image": "https://lh3.googleusercontent.com/ZCJVbJUuv0eTEGnLi6bseAzw1W84HI7ECRXvQeDahabu6B-3fyUoHFa522Ar0sf0EKsndiLYvP-dQa6GYlV5yjNS-QNMVm3tqjAIRg",
+  "attributes": [
+    {
+      "trait_type": "Other",
+      "value": "Tequila"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Mariachi Punk"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Harp"
+    },
+    {
+      "trait_type": "Shows Played",
+      "value": "4050"
+    }
+  ]
+}

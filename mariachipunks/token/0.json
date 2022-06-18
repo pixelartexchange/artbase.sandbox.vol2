@@ -1,0 +1,27 @@
+{
+  "name": "Lalo",
+  "description": "This is Lalo. He is a Mariachi Punk. He plays the trumpet on his mariachi band. But due to the recent global situation he's been out of work and unable to sleep. Willing to travel and play shows.",
+  "image": "https://lh3.googleusercontent.com/FeXOGdijkAF9EG3orsOdUer7cmtLiZnBjjTCevhOCqn0rd3Jukp-6nDvinjC_RGkbWyga1STlQPE13RPx21kH-LHI62yCjLEJk0wwQ",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Lalo"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Trumpet"
+    },
+    {
+      "trait_type": "Shows played",
+      "value": "1800"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Mariachi Punk"
+    },
+    {
+      "trait_type": "Other",
+      "value": "Insomnia"
+    }
+  ]
+}

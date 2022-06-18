@@ -1,0 +1,27 @@
+{
+  "name": "Margarito",
+  "description": "This is Margarito. He is a Mariachi Punk. He plays the Mexican Vihuela in his mariachi band. He refuses to accept that he uses his sarape as his security blanket. The sarape was made in Teocaltiche, Jalisco. He loves pozole and eats mucho chile serrano. In the meantime he sells digital thread sarapes.",
+  "image": "https://lh3.googleusercontent.com/qyeCC8ZiIqWwERbV-eE6938GDAD76qTLEvDq3_zjmm9gCTEvEtMKUHO9dZ2oSdn19SUFdWX2h8dcnQt1A-rZFkdMK65PoUJnBOU3Vw",
+  "attributes": [
+    {
+      "trait_type": "Other",
+      "value": "Security blanket"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Mariachi Punk"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Margarito"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Mexican Vihuela"
+    },
+    {
+      "trait_type": "Shows Played",
+      "value": "1344"
+    }
+  ]
+}

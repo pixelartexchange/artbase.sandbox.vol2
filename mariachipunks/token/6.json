@@ -1,0 +1,27 @@
+{
+  "name": "Delfino Barragán",
+  "description": "This is Delfino Barragán. He is a Mariachi Punk. He plays first guitar and lead voice in his mariachi band. He dyes everything but his eyebrows. He feels sexy that way. He usually gets a bit drunk before playing. He states he plays better like this. No one actually know if it's true since he's always tipsy. Just recently learned to ride a bicycle and he is so happy about this. Lalo taught him. In the meantime he's been selling \"Vampiritos\".",
+  "image": "https://lh3.googleusercontent.com/s-SvKWrrHXEqCVV0M7HFK52Xpt2Ty4zEUy4j2tvOZ1pwR2Pot_UH6rpqjnCWKfo2cBHpSIPVStiacz9BkBg845aSzLCNR_edcDP3_w",
+  "attributes": [
+    {
+      "trait_type": "Other",
+      "value": "Vampiritos"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Mariachi Punk"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Delfino Barragán"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Guitar & Voice"
+    },
+    {
+      "trait_type": "Shows Played",
+      "value": "5454"
+    }
+  ]
+}

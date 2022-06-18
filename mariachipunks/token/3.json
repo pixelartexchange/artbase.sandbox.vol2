@@ -1,0 +1,31 @@
+{
+  "name": "El Güero",
+  "description": "This is El Güero. He is a Mariachi Punk. He plays the guitar on his mariachi band. Like the rest of his bandmates he has been out of job for over a year now. He likes to drink Tejuino and usually goes to bed early. He can memorize large numbers.",
+  "image": "https://lh3.googleusercontent.com/t7vvnd5DJbF0RA5PzrEu0CrvHh-2lSopEYHNK42EBvF7Jr2H7KddkfFZECU_7xRIbD-dZRzUS7evHzVBjvQMfVVqhV2FEKA5U14CoQ",
+  "attributes": [
+    {
+      "trait_type": "Occupation",
+      "value": "Mariachi Punk"
+    },
+    {
+      "trait_type": "Name",
+      "value": "El Güero"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Guitar"
+    },
+    {
+      "trait_type": "Shows played",
+      "value": "3501"
+    },
+    {
+      "trait_type": "Drinks",
+      "value": "Tejuino"
+    },
+    {
+      "trait_type": "Other",
+      "value": "Good Memory"
+    }
+  ]
+}

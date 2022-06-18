@@ -1,0 +1,27 @@
+{
+  "name": "Nepomuceno Domínguez",
+  "description": "This is Nepomuceno Domínguez. He is a Mariachi Punk. He plays the trumpet along with Lalo. He started growing his mustache since puberty and hasn't trimmed it ever since. He feels really proud of that. He doesn't like using pants. Nevertheless he has to use them. In the meantime he hosts a meetup for people that do not like to wear pants.",
+  "image": "https://lh3.googleusercontent.com/j-2-ij6KpYVpzmLO_d2fahY3GDulASARmIYDhv_KIhuDArngjrey-WpcA5k92S7-QXeRQdLiyZE1iQyVRUo5DQoxnADUWRIH034tdw",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Nepomuceno Domínguez"
+    },
+    {
+      "trait_type": "Other",
+      "value": "Pants Reluctant"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Trumpet"
+    },
+    {
+      "trait_type": "Shows Played",
+      "value": "4321"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Mariachi Punk"
+    }
+  ]
+}

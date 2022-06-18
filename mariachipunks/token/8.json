@@ -1,0 +1,27 @@
+{
+  "name": "Alma Rosa",
+  "description": "This is Alma Rosa. She is a Mariachi Punk. She plays the violin in the band with José. She has been out of gigs for over a year now due to the global crisis. In the meantime she's been learning to code. She has become proficient in several languages mostly Solidity and Rust. She hacks into Lalo's computer just for fun. She loves tacos al pastor.",
+  "image": "https://lh3.googleusercontent.com/pZveRVwPqtu5Vov4MY8t5tKnroQPzVnRsXF09CPl50RbbJ3X-6aS3Km9M_sStNPGZnFvFZuPK7MZvVJuexyuEYpJ_4PFsQkX9nVJJA",
+  "attributes": [
+    {
+      "trait_type": "Other",
+      "value": "Solidity"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Mariachi Punk"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Alma Rosa"
+    },
+    {
+      "trait_type": "Shows played",
+      "value": "3600"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Violin"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Don Miguel",
+  "description": "This Don Miguel. He is a Mariachi Punk. Eldest member and founder. He plays the Guitarrón on his mariachi band. He's been out of work too, but unlike Lalo he sleeps like an angel. He believes in telepathy.",
+  "image": "https://lh3.googleusercontent.com/nXMDYLgNiTjWbmd7jx9Wlai_we-uV3CGS_Bnv9CAJB4lashqwmLhKh_ADMk3nltFFIhBGBNrTUnHShpDsIpkePSMG6qt7y8wi6vsng",
+  "attributes": [
+    {
+      "trait_type": "Occupation",
+      "value": "Mariachi Punk"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Don Miguel"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Guitarrón"
+    },
+    {
+      "trait_type": "Shows played",
+      "value": "11,136"
+    },
+    {
+      "trait_type": "Beliefs",
+      "value": "Telepathy"
+    },
+    {
+      "trait_type": "Other",
+      "value": "Good Sleep"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Elvira",
+  "description": "This is Elvira. She is a Mariachi Punk. She plays lead guitar in the band. She likes to play jazz. Nevertheless she loves Mariachi music. She also plays drums. She has a dog, \"El Sabio\" (The Wise One), that usually comes to her shows. In the meantime she's been training dogs with Aurora.",
+  "image": "https://lh3.googleusercontent.com/3ye-CbdeVwXuLOqJDdSM9KYlExmXWSgieIr-n3XG0nrnwQ5mE1wEDvbIiSiR7xfEmZlpGXMaOrprS3ZzCRxX2BY4BjCOwyynsfCVnA",
+  "attributes": [
+    {
+      "trait_type": "Other",
+      "value": "El Sabio"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Mariachi Punk"
+    },
+    {
+      "trait_type": "Instrument",
+      "value": "Guitar"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Elvira"
+    },
+    {
+      "trait_type": "Shows played",
+      "value": "3330"
+    }
+  ]
+}
