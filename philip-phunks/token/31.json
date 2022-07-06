@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #31",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/K_6rqxFN8viZvFUJfFU5wLXThx5JdNHpGpV4DA0OZl6tJ6Nkek_KokW-bBT8bJpa8iGWWQEga6iVozfqjSoMaroV_WRteueYRaM",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Green Hair"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

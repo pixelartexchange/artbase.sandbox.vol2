@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #23",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/hxEeRoBngG0bdcCYJIlrRkzXwLIc6HGS89jw9voqv35RVA3-egAArejf2RVR2DSztKBuE4zNwLV5rhC95i900qWheDOhdff-jQLBqBs",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Pig Nose"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #72",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/RrqGeyDgTj3U0nmfGr-EEv_XW2vbHKY7tloY3Dsfl_xS8HW_DLcVbONmjL7QjQmjPRylCZy4KhpsfsKanuvVJULLaJKK_dgfUAAHPHQ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "T-Shirt Yellow"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mutton Chops"
+    }
+  ]
+}

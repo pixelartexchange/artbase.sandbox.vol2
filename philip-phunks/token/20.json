@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #20",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/v-FzaOnlttGR6VzlItxbYwaH73wtyZUwnFwZ9poQ-mgmRkuvpAiavVo-hIn1JNMzT5PZnUVTxnbywSYndRAj6xg03cjM5avHQyx6WLw",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

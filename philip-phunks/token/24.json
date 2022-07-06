@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #24",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/47G0hbaH_FsKuN3y5ms1tIAvbX6QQ-iY8lXDMSZCGFNJXGUkPCD7LMoHMnbXHgNA4PYfzveadNv5UPU24pOn9m-03skK94U-zlIxnw",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Clergy Collar"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal Beard Black"
+    }
+  ]
+}

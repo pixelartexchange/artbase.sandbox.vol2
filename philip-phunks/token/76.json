@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #76",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/HRmBQDpmnF2sSdsllLGbkqBr2puz7Xb-p4Jsp4_hxvi348TTL8cnVM78g6GI-dwPiQgxFRcz7ACnFIJMQAPIr67VZTTG2L1O6pCJnYM",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "VR headset"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "T-Shirt Purple"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

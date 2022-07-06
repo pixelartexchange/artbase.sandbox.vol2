@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #91",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/zVM7GkVA4YKTA9rBKw_oaEgadqaMXBkLqZ2dmWra2a57WfKuPkIU4yps7wdaD2IBGL6VEIJkTUAr0dxP4ZegLXtZ-ShnltY8_pmvnw",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Blue Hair"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

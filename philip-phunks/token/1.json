@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #1",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/mnDEoW37c4mZh7d7qRATkgkp9Ni0lfulPIh8E990fN6dAQ7nP7cq0lI4pcciQUJjhW5AxgSOfHc89k7Qn2gxBzmhdlmr55EipEiQ7Q",
+  "attributes": [
+    {
+      "trait_type": "Phunk Type",
+      "value": "Devil Philip"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Goat Dark"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ]
+}

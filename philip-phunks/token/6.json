@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #6",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/He0kaW8PZfM8jlFYfJMllLwLTr7vQMf9etZtfjpk5x04P7zgFJ1sb-3flNkWDsYHTE6Y6KYbEzqD5zRyQVko2r5-M3q6c1tH4KP9OA",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "White Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

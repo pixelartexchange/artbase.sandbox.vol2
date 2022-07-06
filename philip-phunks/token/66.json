@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #66",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/o6DfXR5m0HxdPnmSUilL3lLmo0NEw-7ZibU8mw3zOfevFTKmjXE9Pu2VlsLNO98FEZzAeKJ2kislcrBXg4kfN6csdhEcHyorcxVHIw",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Uncle Sam Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Big Beard White"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

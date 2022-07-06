@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #45",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/GZsk6ASsiXL7c7SVXoxa0aTeXm3wciK1RDrjRoDW2uijGAE238ZZl7XXRkdhNza9_MkHEf-J908c6lDMprUnd5dACC46XV5yuXz8bw",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "White Hair"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

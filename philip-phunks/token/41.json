@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #41",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/dU2rypLflFwFE92HEpkdFj_v5pPNdK6qe8CYoxT6iw2bF1U_4f4LndfKy01zW_ZqMAk56sLzhbZhnjcilqy3g-BYV9PAWFplzFKd1Uc",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mutton Chops"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #50",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/4yaeL98UvQlxcXLmDYjMjLc455Vn1AYPJSlcs2ta3nD_qjhyCKLFA7puddqFq797v5QKM_NfqUumqhPHSMHaWs26kUf4vip4mj25vg",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Ruby Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

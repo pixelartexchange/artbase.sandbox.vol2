@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #18",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/BqEvSeNutYXAwFo4qUX6OiqgMt-PxrFOGzhlJRWy50koHsxry66mBdKqvj06bUrAicvlEOZyXOFpPW3MNDOmi4hYjoGNOH2mdUIPdQ",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

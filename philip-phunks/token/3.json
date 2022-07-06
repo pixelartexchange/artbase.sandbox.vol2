@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #3",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/W9gYkpIsfjdyNtE9PEDf5h3ReaOx34vjjBE6rlQI35r5nKW1w8Az50KrCXz1KOaO61DlTcU8-cfLtVAxVw8tXQ9ZjRsWm-s3v_GR",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

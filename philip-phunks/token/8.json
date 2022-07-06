@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #8",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/XU_70SX9Ni6E5O9TkvlNpDCLm46uj8gJlrqoKxKSY2fFwczz3bTHN5yFZQWXauJ6xsZ1HgW-nOf41l1l7dcM_gHDDIcg5nKXgH-J",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

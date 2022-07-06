@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #57",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/Hpq_JTzSoHZLE5DYame5d2IksOqK8FZ0uSV_XI1fKefrj0uWI1G6XPSg-Z4NIlI2_1FaMTRMswtVaO1YebRPZdqZQi7YkFaH6NnPJg",
+  "attributes": [
+    {
+      "trait_type": "Phunk Type",
+      "value": "Zombie Philip"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Hair"
+    }
+  ]
+}

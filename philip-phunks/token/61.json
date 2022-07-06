@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #61",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/J-OMJwKDbHJ7gVH3eqChKehTf46IfxpXG6DIsonu6LVgJHQDPir3b8RAiiEF7ixS-DXjdNURWY86pXdhtpFb_e5PvQkMOSrJsfed",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal Beard Black"
+    }
+  ]
+}

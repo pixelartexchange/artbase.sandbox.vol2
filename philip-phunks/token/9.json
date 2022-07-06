@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #9",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/YaliDz7CJTO2xGTOOUP2N_DKSi14cXZGXYw3hIRlWl_tu5ZFoy1f3dNseZnSZ7ygs38dpCI1gTWv-WV9i1IkTk1XquApDRZMF9ZEytk",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    }
+  ]
+}

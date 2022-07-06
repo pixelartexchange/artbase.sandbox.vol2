@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #19",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/Q0F9GMc_saph6c8lr0SDwiuvhrKfmbbpkyf3ADxJ_i78gqWIafokWpmuhGP1bF0kwW1Sr_Lk2-I6B54koRwz3reqYiTVOYafrcGX3g",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    }
+  ]
+}

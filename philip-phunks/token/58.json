@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #58",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/ZqZL0xgKUKZc5g8uL2dCPbJhBdo4Gk93klcVoZ52mXJ6XGmy14Z3ixdJ6t1TXhNIwh8gaN1M5aDa4hu_gVeOScS_BZJGVyicC9XodZw",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Headband Brazil"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "T-Shirt Yellow"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

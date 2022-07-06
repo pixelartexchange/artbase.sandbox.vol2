@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #48",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/WMYAHsvHnh-OdxqQ2v32NxuNI1X6xAHRK0TKw8LbxEx9dXVD7ln5v-cOvGuMqMEA5PmKNhhThgZv0F9ltNvTl7MevcHQZjXy0xt65A",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

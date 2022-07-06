@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #67",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/SmATpex6WfljMEP1U5Nx3TuNN1hKgVa2MIxV6XdrzSyJGAQvItDdhlSLNP84kf-EDoggWzJAIuEYAoqcg6afQb-HKrW1tYniiiT2fQ",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Headband Italy"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

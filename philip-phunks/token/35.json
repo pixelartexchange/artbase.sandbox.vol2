@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #35",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/FIcAYTwwtlU7SMqUJmNCOABIPOUX44wBUsIujV18VWof6d5Po6uc3y7mtafvkjibeF_TkQ9OgaeNYAHfxnmWgisAIKxrXF66xM5B",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "VR headset"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

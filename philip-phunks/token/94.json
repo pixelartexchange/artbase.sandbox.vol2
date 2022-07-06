@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #94",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/5l_ENTlHiSupNciEu2SRe4q-Se2o6B-NsHrrAnQREPypcuizfqdv7x76IJI8iEqW99VokD2f2rjARw-GYRvAPNDlVpMB74HqROMX",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Bot Philip"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #73",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/sCOKlWwr7_jxwgKM8_f_DoLsPnOD3O1LYcBro9rYfKJ-pk9iM2DbJpi7RA2JiRkWbdOLT092x3E1IzATmOTcWKVMCxoD5baPaJxI8LU",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fast Food Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shirt n Tie"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

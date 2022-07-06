@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #37",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/-FgAn2gV2u_eSEcWY45DAH-ln7_g3Yj7E8yxKT4eBw-MavwnvC2MSzXAusKGFSpCEIhAa6KiR_-fwQ_go7nvpIwC_Oous-QJjGEheA",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

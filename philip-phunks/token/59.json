@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #59",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/61jkPDHYoHbIp628fnC63CdMJV8bfwx2I8B76vrr6Y4HK-FtPDsFJkxeG2okM5mKuGaQ4aF8vDBSEjpgMxuxPMnLozP2Od3KNuveKA",
+  "attributes": [
+    {
+      "trait_type": "Phunk Type",
+      "value": "Bot Philip"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "T-Shirt Red"
+    }
+  ]
+}

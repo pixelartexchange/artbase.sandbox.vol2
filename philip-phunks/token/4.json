@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #4",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/SMP-4UzXW5CB2DTb0-Zq4sv6Ia5Bx7o4PmXQp6OBm94cq1CzceSrZNPiFxDn6jHAEGJ2wiBoCA8cKNRfSI-ABEUs4TZNVqulDT6a",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

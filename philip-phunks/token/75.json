@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #75",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/Gfpv-Sdg61bYSGuBzaT2eWJhRYq1vOdNti64BXljOPmeNeNKvo_4mYcpNvSkxszhKRJXoMZtKpe3pXI1QcXL3q6soPIXXwgTw6co",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Shirt n Tie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

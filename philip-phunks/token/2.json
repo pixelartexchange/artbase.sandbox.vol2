@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #2",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/Bz60bohq4a2XKY25x-AXzT85lHpdJR0UT2VyV1dbANeo-BmT8fJSPbyX9APCxBedUEexePweywa6CgzwhKHYCImGDxHmkehMQ7s9dg",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

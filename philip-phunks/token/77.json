@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #77",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/YlsZ2-i-dl1BIdeKudYvTygN8vim_kwR8dlrbcpMG4w-IY8qBR2Sj6NNs70t8ten5PQ_SFF_q6-KCoUGgBZFn4dz5Pt_rL0cxNkPVg",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headband Pride"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

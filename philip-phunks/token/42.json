@@ -1,0 +1,19 @@
+{
+  "name": "PhilipPhunk #42",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/EOdb_p47VChpF3joExEKPaqpVDZ1uLg5-wi8qmS55bNMM-ACJTfEqknECM9o9b63ey10mycR7xX4QG-ZmE5rUJLhAUbkMzO39qLWg6c",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}

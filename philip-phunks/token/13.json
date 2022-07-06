@@ -1,0 +1,23 @@
+{
+  "name": "PhilipPhunk #13",
+  "description": "1 of 500 unique PhilipPhunks in tribute to the slayer of corporate overlords",
+  "image": "https://lh3.googleusercontent.com/RGihjgnJRpwOcKbE-lgzE2AyUy6QIz8EdoXmsTSW-XYlvnJwplmb2HuVLexRkeklwsT-1NRFr2WvBYcHeBA4P6jBELDBYdYYUT2p3g",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Phunk Type",
+      "value": "Philip"
+    }
+  ]
+}
