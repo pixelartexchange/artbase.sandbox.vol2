@@ -1,0 +1,57 @@
+{
+  "name": "COVIDPunk #168",
+  "description": "One of 10,000 computer-generated punks who politely comply with local personal protective gear regulations. Way to go, champ!",
+  "tokenId": 168,
+  "external_url": "https://www.covidpunks.com",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "KN-95"
+    },
+    {
+      "trait_type": "Vaccine Status",
+      "value": "Vaccinated"
+    },
+    {
+      "trait_type": "Vaccine",
+      "value": "Pfazer"
+    },
+    {
+      "trait_type": "COVID Status",
+      "value": "Infected"
+    },
+    {
+      "trait_type": "Symptom",
+      "value": "Headache"
+    },
+    {
+      "trait_type": "Symptom",
+      "value": "Fatigued"
+    },
+    {
+      "trait_type": "Symptom",
+      "value": "Wheezing"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Superrare"
+    }
+  ],
+  "image": "https://gateway.pinata.cloud/ipfs/QmeMMNBHihx1HujFqr3M5zVoLrf36kw6F2b7FJJgT1e8jV"
+}

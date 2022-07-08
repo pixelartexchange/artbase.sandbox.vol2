@@ -1,0 +1,33 @@
+{
+  "name": "COVIDPunk #89",
+  "description": "One of 10,000 computer-generated punks who politely comply with local personal protective gear regulations. Way to go, champ!",
+  "tokenId": 89,
+  "external_url": "https://www.covidpunks.com",
+  "attributes": [
+    {
+      "trait_type": "Necklace",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Vaccine Status",
+      "value": "Unvaccinated"
+    },
+    {
+      "trait_type": "COVID Status",
+      "value": "Healthy"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Superrare"
+    }
+  ],
+  "image": "https://gateway.pinata.cloud/ipfs/QmV6dL92PF2CHrcFWUtAJWwcbdsCSjh9Lq7hvh2M2FaoRY"
+}
