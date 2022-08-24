@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Female Ape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Fur"
+    }
+  ],
+  "description": "What if all 10,000 punks were apes?  APE PUNKS.",
+  "image": "https://api.apepunks.io/punk/image/755",
+  "name": "APE PUNKS #755"
+}

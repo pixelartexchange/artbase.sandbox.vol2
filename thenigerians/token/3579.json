@@ -1,0 +1,51 @@
+{
+  "name": "The Nigerians #3579",
+  "description": "We are de Nigerian NFT. Ajebutter!",
+  "image": "ipfs://QmPKQ4QqaqKXJzgRvJiXQmTxCMPWq5N7jrRmwYmgzzUgoC/3579.png",
+  "dna": "52a081ce9749e2e51f3e251dd61d055182b2b46b",
+  "edition": 3579,
+  "date": 1658658201147,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown Background"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Very Dark Skin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "No Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Red Habar Kada"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Red Round Glasses"
+    },
+    {
+      "trait_type": "Agbada",
+      "value": "Plain Red Agbada"
+    },
+    {
+      "trait_type": "Neckwear",
+      "value": "Nigerian Chain"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "No Earring"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "The Nigerians"
+}

@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Male Ape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mutton Chops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Fur"
+    }
+  ],
+  "description": "What if all 10,000 punks were apes?  APE PUNKS.",
+  "image": "https://api.apepunks.io/punk/image/1548",
+  "name": "APE PUNKS #1548"
+}

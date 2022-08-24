@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Female Ape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Brown Fur"
+    }
+  ],
+  "description": "What if all 10,000 punks were apes?  APE PUNKS.",
+  "image": "https://api.apepunks.io/punk/image/1256",
+  "name": "APE PUNKS #1256"
+}

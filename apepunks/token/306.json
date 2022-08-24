@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Female Ape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Brown Fur"
+    }
+  ],
+  "description": "What if all 10,000 punks were apes?  APE PUNKS.",
+  "image": "https://api.apepunks.io/punk/image/306",
+  "name": "APE PUNKS #306"
+}

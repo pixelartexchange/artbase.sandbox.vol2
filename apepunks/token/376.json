@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Zombie Ape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Dark"
+    }
+  ],
+  "description": "What if all 10,000 punks were apes?  APE PUNKS.",
+  "image": "https://api.apepunks.io/punk/image/376",
+  "name": "APE PUNKS #376"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "The Jews #522",
+  "description": "Max Shalom",
+  "image": "https://ipfs.io/ipfs/bafybeiaw7f74bxcsd7kbxi2lq4bpccoudaqgit4vzoyxidvamw7562wqoy/522.svg",
+  "attributes": [
+    {
+      "trait_type": "skin_tone",
+      "value": "medium"
+    },
+    {
+      "trait_type": "beard",
+      "value": "normal_grey_beard"
+    },
+    {
+      "trait_type": "top",
+      "value": "low_crown_black_felt_hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "N/A"
+    },
+    {
+      "trait_type": "tallit",
+      "value": "N/A"
+    },
+    {
+      "trait_type": "payes",
+      "value": "N/A"
+    }
+  ]
+}

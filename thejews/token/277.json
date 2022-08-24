@@ -1,0 +1,35 @@
+{
+  "name": "The Jews #277",
+  "description": "Max Shalom",
+  "image": "https://ipfs.io/ipfs/bafybeiaw7f74bxcsd7kbxi2lq4bpccoudaqgit4vzoyxidvamw7562wqoy/277.svg",
+  "attributes": [
+    {
+      "trait_type": "skin_tone",
+      "value": "honey"
+    },
+    {
+      "trait_type": "payes",
+      "value": "one_side_payes"
+    },
+    {
+      "trait_type": "beard",
+      "value": "short_grey_beard"
+    },
+    {
+      "trait_type": "top",
+      "value": "tefillin_&_white_&_red_kippah"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "vintage_monocle"
+    },
+    {
+      "trait_type": "tallit",
+      "value": "N/A"
+    }
+  ]
+}

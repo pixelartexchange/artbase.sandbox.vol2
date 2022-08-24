@@ -1,0 +1,51 @@
+{
+  "name": "The Nigerians #792",
+  "description": "We are de Nigerian NFT. Ajebutter!",
+  "image": "ipfs://QmPKQ4QqaqKXJzgRvJiXQmTxCMPWq5N7jrRmwYmgzzUgoC/792.png",
+  "dna": "f3b85a6b3ef21e1f02716c9aede911879ceb2958",
+  "edition": 792,
+  "date": 1658657836875,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GOLD LEGENDARY 2"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "GOLD LEGENDARY 2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GOLD LEGENDARY 2"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "GOLD LEGENDARY 2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "GOLD LEGENDARY 2"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "GOLD LEGENDARY 2"
+    },
+    {
+      "trait_type": "Agbada",
+      "value": "GOLD LEGENDARY 2"
+    },
+    {
+      "trait_type": "Neckwear",
+      "value": "GOLD LEGENDARY 2"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "GOLD LEGENDARY 2"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "GOLD LEGENDARY 2"
+    }
+  ],
+  "compiler": "The Nigerians"
+}

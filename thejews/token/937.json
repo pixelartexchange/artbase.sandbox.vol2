@@ -1,0 +1,35 @@
+{
+  "name": "The Jews #937",
+  "description": "Max Shalom",
+  "image": "https://ipfs.io/ipfs/bafybeiaw7f74bxcsd7kbxi2lq4bpccoudaqgit4vzoyxidvamw7562wqoy/937.svg",
+  "attributes": [
+    {
+      "trait_type": "skin_tone",
+      "value": "honey"
+    },
+    {
+      "trait_type": "payes",
+      "value": "wavy_payes_short"
+    },
+    {
+      "trait_type": "beard",
+      "value": "short_black_beard"
+    },
+    {
+      "trait_type": "top",
+      "value": "long_white_&_red_kippah"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cigarette_2"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "horn-rimmed_glasses_2"
+    },
+    {
+      "trait_type": "tallit",
+      "value": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+##
+# see
+#    https://opensea.io/collection/nigeriansnft
+#    https://www.nigeriansnft.com/
+#    https://etherscan.io/address/0x9f35425c2ef3616dd024d866082e0b61023fbfe1
+#    https://twitter.com/NigeriansNFT
+
+
+
+COLLECTION = TokenCollection.new( 'thenigerians', 5555,
+                     token_base: 'ipfs://QmQyT2thbpCrBNrnsTbLVyQUsUoMsdVmyJM4sr4QXrt8oc/{id}.json',
+                     image_base: 'ipfs://QmPKQ4QqaqKXJzgRvJiXQmTxCMPWq5N7jrRmwYmgzzUgoC/{id}.png',
+                     format: '24x24',
+                     source: ['512x512', '576x576'],
+                     offset: 1
+)
+
+
+####
+#   note:
+#      the 10 gold legendary nigerians
+#          use 576x576px  - and incl. "not perfect aligned" pixels
+#          14, 792,
+#          1020, 1747,  2221,
+#          3109,  4016,  4901,
+#           5294, 5355,
+#
+#     the 9 community legendary nigerians (are "hand-made" 1/1s in various sizes)
+#            and NOT 24x24 pixel art
+#           124, 2231, 2397,
+#           3366, 3778, 3781,
+#    4211, 4441, 4997,
+
+#
+#  note:
+#    headwear attributes with "faux" pixel art (more than one pixel per pixel)
+#      incl.   purple habar kada, red fila gobi etc
+#
+
+
+
+1/1s are in 576x576px with "unaligned" pixels
+#     no. 14
+#      ...
