@@ -1,0 +1,21 @@
+
+slug:        thejews
+count:       5555
+token_base:  ipfs://bafybeidsfeoe34wcwn55h6r7py565cylsbmc65nbv4onq6f3xms3bh7zni/{id}.json
+image_base:  ipfs://bafybeiaw7f74bxcsd7kbxi2lq4bpccoudaqgit4vzoyxidvamw7562wqoy/{id}.svg
+format:      24x24
+source:      1400x1400
+offset:      1
+
+
+##
+# see
+#     https://opensea.io/collection/thejews-nft
+#     https://looksrare.org/collections/0x1e283601f53032D9aaC8Dc73632f4e482E761c70
+#     https://etherscan.io/address/0x1e283601f53032D9aaC8Dc73632f4e482E761c70
+#     https://twitter.com/TheJewsNFT
+
+opensea: thejews-nft
+
+token:
+  contract: "0x1e283601f53032D9aaC8Dc73632f4e482E761c70"

@@ -9,14 +9,23 @@ require 'artbase'
 require 'artbase-opensea'
 
 
+=begin
+linter = CollectionsOpenSeaLinter.new
+linter.lint
+
+puts
+puts "  #{linter.warns.size} warning(s):"
+pp linter.warns
+=end
+
+
 exporter = CollectionsExporter.new(
             base_url: 'https://github.com/pixelartexchange/artbase.sandbox.vol2/raw/master'
 )
 
 
 
-exporter.export( '../opensea.cache/artbase',
-                 sync: false )   ## auto-sync check via online opensea api call/request?
+exporter.export( '../opensea.cache/artbase' )
 
 puts
 puts "  #{exporter.warns.size} warning(s):"

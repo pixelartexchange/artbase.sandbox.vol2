@@ -10,9 +10,8 @@ offset:      1
 
 ##
 # see
-#    https://opensea.io/collection/apepunks
-#   fix to => apepunksnft
-opensea:  apepunks
+#    https://opensea.io/collection/apepunksnft
+opensea:  apepunksnft
 
 
 token:

@@ -1,0 +1,17 @@
+
+slug:       philip-phunks
+count:      100
+token_base: tobedone
+format:     24x24
+source:     512x512
+offset:     1
+
+##
+# see
+#     https://opensea.io/collection/philip-phunks
+opensea:  philip-phunks
+
+
+## note: solidity contract source not published / verified (on etherscan)
+token:
+  contract: "0xa3915c387ccebfd451343a7768e3c2cfb6fdad48"
