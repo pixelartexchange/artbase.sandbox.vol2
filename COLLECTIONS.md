@@ -15,7 +15,12 @@ OK  opensea @ [apepunks](https://opensea.io/collection/apepunks)<br>
  "format"=>"24x24",
  "source"=>"1200x1200",
  "offset"=>1,
- "opensea"=>"apepunks"}
+ "opensea"=>"apepunks",
+ "token"=>
+  {"contract"=>"0x97f2eed9a7d3edbbca56120ed26795a5467f57fc",
+   "name"=>"ApePunks",
+   "symbol"=>"APEK",
+   "created"=>"???"}}
 ```
 
 ## 24x24  covidpunks (in ./covidpunks) - 10000 max.

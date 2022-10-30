@@ -11,5 +11,15 @@ offset:      1
 ##
 # see
 #    https://opensea.io/collection/apepunks
+#   fix to => apepunksnft
 opensea:  apepunks
+
+
+token:
+  contract:  "0x97f2eed9a7d3edbbca56120ed26795a5467f57fc"
+  name:      ApePunks
+  symbol:    APEK
+  created:   "???"
+  # 2021-09-01T09:34:44.795046
+
 
