@@ -1,0 +1,35 @@
+{
+  "name": "Halloween Punk #3293",
+  "description": "Halloween Punks - an essential attribute for such a beautiful and terrifying holiday. Welcome to the celebration!",
+  "image": "ipfs://QmcmTJMFfEhh4igPcd2rb7EnA13F9pJbaATp4sCnTntdr7/3293.png",
+  "dna": "f6e69757ee8c9cb26c5e1b1ed2d3252fe9900e9d",
+  "edition": 3293,
+  "date": 1667174953378,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red nose"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frightened"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue outside"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Gray hair back"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nails"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

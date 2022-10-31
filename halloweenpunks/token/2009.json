@@ -1,0 +1,35 @@
+{
+  "name": "Halloween Punk #2009",
+  "description": "Halloween Punks - an essential attribute for such a beautiful and terrifying holiday. Welcome to the celebration!",
+  "image": "ipfs://QmcmTJMFfEhh4igPcd2rb7EnA13F9pJbaATp4sCnTntdr7/2009.png",
+  "dna": "d4ba36e79b8f0eb8c51dc1099fdb7366838725e5",
+  "edition": 2009,
+  "date": 1667174896919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark elf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses protruding eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lonely tooth"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red thread"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

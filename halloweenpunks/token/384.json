@@ -1,0 +1,35 @@
+{
+  "name": "Halloween Punk #384",
+  "description": "Halloween Punks - an essential attribute for such a beautiful and terrifying holiday. Welcome to the celebration!",
+  "image": "ipfs://QmcmTJMFfEhh4igPcd2rb7EnA13F9pJbaATp4sCnTntdr7/384.png",
+  "dna": "1fa0cf663d5620fbf56f6f4dab96d0d0fff78b03",
+  "edition": 384,
+  "date": 1667174813618,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses protruding eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sealed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stetson"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

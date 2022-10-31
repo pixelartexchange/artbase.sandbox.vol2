@@ -1,0 +1,35 @@
+{
+  "name": "Halloween Punk #685",
+  "description": "Halloween Punks - an essential attribute for such a beautiful and terrifying holiday. Welcome to the celebration!",
+  "image": "ipfs://QmcmTJMFfEhh4igPcd2rb7EnA13F9pJbaATp4sCnTntdr7/685.png",
+  "dna": "47f4bc476e9770d479a8b03489548437e7e097a6",
+  "edition": 685,
+  "date": 1667174829215,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark beige"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pensive"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pumpkin"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stun gun"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

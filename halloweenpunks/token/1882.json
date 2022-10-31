@@ -1,0 +1,35 @@
+{
+  "name": "Halloween Punk #1882",
+  "description": "Halloween Punks - an essential attribute for such a beautiful and terrifying holiday. Welcome to the celebration!",
+  "image": "ipfs://QmcmTJMFfEhh4igPcd2rb7EnA13F9pJbaATp4sCnTntdr7/1882.png",
+  "dna": "5f74097bc403f30502f1f180787e9f5e99954568",
+  "edition": 1882,
+  "date": 1667174889945,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple elf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Killed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lonely tooth"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald head in front"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Web"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

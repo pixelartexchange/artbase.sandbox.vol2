@@ -1,0 +1,35 @@
+{
+  "name": "Halloween Punk #1000",
+  "description": "Halloween Punks - an essential attribute for such a beautiful and terrifying holiday. Welcome to the celebration!",
+  "image": "ipfs://QmcmTJMFfEhh4igPcd2rb7EnA13F9pJbaATp4sCnTntdr7/1000.png",
+  "dna": "e64444ced31a6a18b925b933990c69ec598cf954",
+  "edition": 1000,
+  "date": 1667174850003,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Upholstered in fabric"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pirate bandage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Offended"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stetson"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red thread"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

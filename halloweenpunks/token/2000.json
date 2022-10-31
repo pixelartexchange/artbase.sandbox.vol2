@@ -1,0 +1,35 @@
+{
+  "name": "Halloween Punk #2000",
+  "description": "Halloween Punks - an essential attribute for such a beautiful and terrifying holiday. Welcome to the celebration!",
+  "image": "ipfs://QmcmTJMFfEhh4igPcd2rb7EnA13F9pJbaATp4sCnTntdr7/2000.png",
+  "dna": "6d2481beb40aa4acef4517b46bc1977112df0457",
+  "edition": 2000,
+  "date": 1667174896487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark freckles"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue outside"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Candles"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Key"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

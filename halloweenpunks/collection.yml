@@ -1,0 +1,28 @@
+
+###
+#  https://twitter.com/HalloweenPunks
+#  https://etherscan.io/address/0xdb826b7492409a358e44702fd022565554430d3e#readContract
+
+
+##
+#  note:   token and .png for #3333 returns 404 (Not Found)
+#   collection only 3332 items and NOT 3333 ??
+
+
+slug:       halloweenpunks
+count:      3332
+token_base: https://harlequin-personal-raccoon-365.mypinata.cloud/ipfs/QmR6RP42W4BpGz2pqDgFTKwmnVcEmR7mFNXdPJYFEdPsZB/{id}.json
+image_base: https://harlequin-personal-raccoon-365.mypinata.cloud/ipfs/QmcmTJMFfEhh4igPcd2rb7EnA13F9pJbaATp4sCnTntdr7/{id}.png
+format:     24x24
+source:     384x384
+offset:     1
+
+
+#################
+# https://opensea.io/collection/halloweenpunks-here
+
+opensea:  halloweenpunks-here
+
+token:
+  contract:  "0xdb826b7492409a358e44702fd022565554430d3e"
+
