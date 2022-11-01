@@ -1,0 +1,59 @@
+{
+  "name": "Agent #54",
+  "description": "",
+  "image": "ipfs://bafybeihepao62sswaseh4xucvkkdzgnwpo7kc7nr6ggp5fbliqoki5l7ii/54.png",
+  "dna": "f308544a0b9f91710034891a53dd49d5dbe9a581",
+  "edition": 54,
+  "date": 1660078567890,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "None"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

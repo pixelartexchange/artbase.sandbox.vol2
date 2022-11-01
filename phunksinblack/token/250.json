@@ -1,0 +1,59 @@
+{
+  "name": "Agent #250",
+  "description": "",
+  "image": "ipfs://bafybeihepao62sswaseh4xucvkkdzgnwpo7kc7nr6ggp5fbliqoki5l7ii/250.png",
+  "dna": "e3e8e67981f0e49e4bfe1fb2337183953d39e82a",
+  "edition": 250,
+  "date": 1660078543024,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "None"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Agent #289",
+  "description": "",
+  "image": "ipfs://bafybeihepao62sswaseh4xucvkkdzgnwpo7kc7nr6ggp5fbliqoki5l7ii/289.png",
+  "dna": "e71865752678a25b228d8414a7aff9eedab500fe",
+  "edition": 289,
+  "date": 1660078600306,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

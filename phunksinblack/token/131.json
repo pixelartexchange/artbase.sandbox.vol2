@@ -1,0 +1,59 @@
+{
+  "name": "Agent #131",
+  "description": "",
+  "image": "ipfs://bafybeihepao62sswaseh4xucvkkdzgnwpo7kc7nr6ggp5fbliqoki5l7ii/131.png",
+  "dna": "48198d6dbecae49142e8e8b4ddad496e4578587b",
+  "edition": 131,
+  "date": 1660078548276,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mid"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

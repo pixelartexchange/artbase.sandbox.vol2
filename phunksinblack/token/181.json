@@ -1,0 +1,59 @@
+{
+  "name": "Agent #181",
+  "description": "",
+  "image": "ipfs://bafybeihepao62sswaseh4xucvkkdzgnwpo7kc7nr6ggp5fbliqoki5l7ii/181.png",
+  "dna": "ac4ed954602bef0a1c02d212654d2e6db8f8a56f",
+  "edition": 181,
+  "date": 1660078489798,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "None"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

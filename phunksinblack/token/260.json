@@ -1,0 +1,59 @@
+{
+  "name": "Agent #260",
+  "description": "",
+  "image": "ipfs://bafybeihepao62sswaseh4xucvkkdzgnwpo7kc7nr6ggp5fbliqoki5l7ii/260.png",
+  "dna": "794c50fa99cdbfa12672f3e15302a0676942157c",
+  "edition": 260,
+  "date": 1660078421608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "None"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Mouth Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Black"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
