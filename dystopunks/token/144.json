@@ -1,0 +1,26 @@
+{
+  "image": "https://dystopunks.mypinata.cloud/ipfs/Qmb2Yshgx1BgMf4ovtZZZ9di9WfzJUmY2U1fWujDoScU75/145.png",
+  "name": "DystoPunk #145",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Bionic Eye Patch"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Blue Mohawk"
+    }
+  ]
+}

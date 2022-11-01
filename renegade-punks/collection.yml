@@ -1,0 +1,14 @@
+
+
+
+slug:       renegade-punks
+count:      10000
+token_base: "???"
+# format:     24x24
+# source:     480x480
+
+opensea:    renegade-punks
+
+token:
+  contract:  "0xba02e04c96ee4b38f8ad5b6cd0444ea23854c97f"
+

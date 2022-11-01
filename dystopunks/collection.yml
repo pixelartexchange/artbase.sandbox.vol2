@@ -1,0 +1,22 @@
+
+
+
+slug:       dystopunks
+count:      2077
+token_base: https://dystopunks.mypinata.cloud/ipfs/QmeYQ2eDCcJpfBQHq59P7SNevQR2ycEfctn6waw8fZBJhK/{id}
+##
+# note:  image_base is +1 e.g.  0.json is 1.gif
+#                               1.json is 2.gif
+#     check use {id+1}.gif - why? why not?
+# https://dystopunks.mypinata.cloud/ipfs/Qmb2Yshgx1BgMf4ovtZZZ9di9WfzJUmY2U1fWujDoScU75/1.gif",
+#  note: only the first hundred (no. 0-99) images are gifs (the rest is pngs!!!)
+
+
+format:     24x24
+source:     480x480
+
+opensea:    dystopunks
+
+token:
+  contract:  "0xbea8123277142de42571f1fac045225a1d347977"
+
