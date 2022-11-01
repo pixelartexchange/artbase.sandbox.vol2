@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #40",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/40.png",
+  "dna": "682971a3095da8e7fb5952a47380931759ebb159",
+  "edition": 40,
+  "date": 1666992588307,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Slender"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 2"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Pennywise"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "Witch hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

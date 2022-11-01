@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #78",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/78.png",
+  "dna": "7957abf79f8aa44ef75641ff0aaeda24ee9d7608",
+  "edition": 78,
+  "date": 1666992290865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Bats"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 2"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Pennywise"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "Brahms"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

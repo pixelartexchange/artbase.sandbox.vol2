@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #13",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/13.png",
+  "dna": "0dbdef6843eda7191894fe5d933fbb07c5454cc1",
+  "edition": 13,
+  "date": 1666992589184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 5"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Twoface"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "Witch hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

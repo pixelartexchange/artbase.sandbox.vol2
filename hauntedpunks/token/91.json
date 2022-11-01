@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #91",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/91.png",
+  "dna": "fa017ee3dfad3de095fc94456f92edf0ec2d5478",
+  "edition": 91,
+  "date": 1666992176396,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 1"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Jason mask"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "Possessed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

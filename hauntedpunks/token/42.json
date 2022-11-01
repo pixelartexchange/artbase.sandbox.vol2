@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #42",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/42.png",
+  "dna": "e909726ef5c1b7a83a2463e29ac83a6a72e0a8cb",
+  "edition": 42,
+  "date": 1666992592973,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Pumkin"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 3"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Greybeard"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "Frankenstein"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

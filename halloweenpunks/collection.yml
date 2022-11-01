@@ -14,7 +14,7 @@ count:      3332
 token_base: https://harlequin-personal-raccoon-365.mypinata.cloud/ipfs/QmR6RP42W4BpGz2pqDgFTKwmnVcEmR7mFNXdPJYFEdPsZB/{id}.json
 image_base: https://harlequin-personal-raccoon-365.mypinata.cloud/ipfs/QmcmTJMFfEhh4igPcd2rb7EnA13F9pJbaATp4sCnTntdr7/{id}.png
 format:     24x24
-source:     384x384
+source:     384x384    ## 16px*24 = 384
 offset:     1
 
 

@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #72",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/72.png",
+  "dna": "752516c7881c270bdcea4fdefdf7758a0107dbf7",
+  "edition": 72,
+  "date": 1666992550325,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Eyes"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 3"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "The ring hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

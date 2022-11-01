@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #29",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/29.png",
+  "dna": "aa2858062ee4996e6d3e0572fe7f4049caca9c00",
+  "edition": 29,
+  "date": 1666992275270,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Skulls"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 2"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Alien drool"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "The ring hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

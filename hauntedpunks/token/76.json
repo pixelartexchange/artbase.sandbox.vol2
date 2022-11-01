@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #76",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/76.png",
+  "dna": "cfe3cbc20b9018a1ecbe2d250c54ef55047946ee",
+  "edition": 76,
+  "date": 1666992447423,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Spider web"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 4"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "Harry potter glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

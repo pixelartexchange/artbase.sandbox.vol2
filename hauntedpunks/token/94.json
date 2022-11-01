@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #94",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/94.png",
+  "dna": "0a8f138dcacd451630524ec626b50b9958843a16",
+  "edition": 94,
+  "date": 1666992818463,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Pumkin"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 1"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "Pale man"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

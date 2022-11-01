@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #27",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/27.png",
+  "dna": "c1f568561bd5ba2031f97f9b01f1227e9e6b2c6d",
+  "edition": 27,
+  "date": 1666992390329,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 2"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Greybeard"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "Possessed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

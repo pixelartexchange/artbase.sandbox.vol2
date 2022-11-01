@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #89",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/89.png",
+  "dna": "51056cf4a9f678cc67c1f9703af69b360f7de509",
+  "edition": 89,
+  "date": 1666992703544,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Pumkin"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 3"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "The Joker "
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "Cursed eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

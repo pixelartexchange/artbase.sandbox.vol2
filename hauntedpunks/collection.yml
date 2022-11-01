@@ -1,0 +1,31 @@
+
+##
+# https://twitter.com/HauntedPunks666
+#
+
+
+slug:       hauntedpunks
+count:      200
+token_base: ipfs://QmVztu4XQmN9MRXkKn2Bqcsb9owopNStMn1ipt2Dfkiz2o/{id}.json
+image_base: ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/{id}.png
+
+
+format:     22x22
+source:     1280x1280    ## 58px*22 = 1276 (+4 overflow)
+offset:     1
+
+# note:  token_base query  no. 0 maps to  1.json,
+#                              1 maps to  2.json, etc.
+#  use {id+1} in token_base/image_base - why? why not?
+
+
+
+#################
+# https://opensea.io/collection/haunted-punks-666
+#
+
+
+opensea:  haunted-punks-666
+
+token:
+  contract:  "0xaf9f4d97d9b5d2e0b384e3203b311594b3de23ea"

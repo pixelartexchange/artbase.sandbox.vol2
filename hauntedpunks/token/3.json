@@ -1,0 +1,31 @@
+{
+  "name": "Haunted Punks #3",
+  "description": "Haunted Punks is a collection of spooky scary Punks ready to celebrate the festivities of Halloween!",
+  "image": "ipfs://QmeLvEgQ8KPmkxKVbQZUc8v8RVYwoVtbhA7GhizfUzACb1/3.png",
+  "dna": "3df8b9092eab6c8eae0192103a85e2afb86b2a46",
+  "edition": 3,
+  "date": 1666992419171,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background Traits",
+      "value": "Slender"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Body 4"
+    },
+    {
+      "trait_type": "Mouth Attributes",
+      "value": "Annabelle"
+    },
+    {
+      "trait_type": "Hair Traits",
+      "value": "Possessed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
