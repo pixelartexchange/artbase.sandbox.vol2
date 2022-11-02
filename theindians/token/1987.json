@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1987",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1987.png",
+  "dna": "867ea51922f5acdd707685ce3997ee8516a299cc",
+  "edition": 1987,
+  "date": 1658291097792,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bej"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Dalit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Twirly"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laal Skaarph"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meta Remote Worker"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "belly full of fine indian wine"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #344",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/344.png",
+  "dna": "7652704c3035e56f2e574b98b88b05c67093eb8c",
+  "edition": 344,
+  "date": 1658291074195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sandy"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Brahmin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bloody Bastard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown of Desi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bhang Addicted"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "stomach digest over cooked pongal"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

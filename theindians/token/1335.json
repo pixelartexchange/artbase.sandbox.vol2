@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1335",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1335.png",
+  "dna": "3ebe8737d2a915092e0860969ad1ac2d5724faff",
+  "edition": 1335,
+  "date": 1658291088475,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Military Guy Background"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Kshatriyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goat Guy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bloody Bastard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tropical"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Sleep"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Sheesh kebeb and goat curry stew digesting"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

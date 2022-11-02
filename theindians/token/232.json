@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #232",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/232.png",
+  "dna": "1f295b25e93293c7820eefb4663e64c4d3745049",
+  "edition": 232,
+  "date": 1658291072351,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "peela"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Vaishyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Desi Old Beard"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Jhakaas Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Watermelon Turban"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "increased girth belly from digest soft idlis"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

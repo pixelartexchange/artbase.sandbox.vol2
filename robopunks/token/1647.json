@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "value": "Neck-Joint",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Near-Field",
+      "trait_type": "Audio Sensors"
+    },
+    {
+      "value": "V2",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Light-Grey",
+      "trait_type": "Metal"
+    },
+    {
+      "value": "Sound-Hole-1",
+      "trait_type": "Speaker"
+    },
+    {
+      "value": "Dark-Grey",
+      "trait_type": "Visual Sensors"
+    }
+  ],
+  "description": "2048 RoboPunks recently assembled for service on the Ethereum blockchain. ",
+  "image": "ipfs://bafkreiav25m3zn33v3pfvuuozrbaf6dtrygfl7mzrldkoweuk644vkia7e",
+  "name": "RoboPunks 2048 #1647"
+}

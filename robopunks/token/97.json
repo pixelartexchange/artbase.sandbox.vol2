@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "value": "Vertical",
+      "trait_type": "Air Intake"
+    },
+    {
+      "value": "Available",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "Metal"
+    },
+    {
+      "value": "Sound-Hole-2",
+      "trait_type": "Speaker"
+    },
+    {
+      "value": "Light-Grey",
+      "trait_type": "Visual Sensors"
+    }
+  ],
+  "description": "2048 RoboPunks recently assembled for service on the Ethereum blockchain. ",
+  "image": "ipfs://bafkreihc62jhdoxw2t4ljfi2zagmh3vsn2w277ce5v6mb7akq2k6isdir4",
+  "name": "RoboPunks 2048 #97"
+}

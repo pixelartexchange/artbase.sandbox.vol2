@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #227",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/227.png",
+  "dna": "8a73da8ad4f8ac9f706e6aa588f30b069fea6b1e",
+  "edition": 227,
+  "date": 1658291072245,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sandy"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Brahmin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Sir"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Turban"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Desi Aviators"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Pani Puriu in the Mouth"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

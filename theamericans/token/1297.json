@@ -1,0 +1,39 @@
+{
+  "name": "The Americans #1297",
+  "description": "10,000 Americans are here to become the wealthiest group in the world #THEAMERICANS",
+  "image": "ipfs://QmaErYt9AuUJM3JHDpdQRCs9CNQ1MamxAjsfA8o99W3gSR/1297.png",
+  "dna": "431f2f0d9f0e40d708e1027926fd0b4338dbb5a9",
+  "edition": 1297,
+  "date": 1657803724833,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "American"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "USA Flag"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Mustache Grey"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Afro Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Military"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

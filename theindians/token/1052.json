@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1052",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1052.png",
+  "dna": "c70e1cdc8cb2d39f9316925bf6990bf15b417264",
+  "edition": 1052,
+  "date": 1658291084371,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "peela"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Kshatriyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Desi Old Beard"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Juniper Jaipur"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skilled"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black Eye"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Sheesh kebeb and goat curry stew digesting"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

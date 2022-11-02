@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "value": "Horizontal",
+      "trait_type": "Air Intake"
+    },
+    {
+      "value": "Claimed",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "Metal"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Speaker"
+    },
+    {
+      "value": "Blood-Red",
+      "trait_type": "Visual Sensors"
+    }
+  ],
+  "description": "2048 RoboPunks recently assembled for service on the Ethereum blockchain. ",
+  "image": "ipfs://bafkreiabq6aydnkfsrn5nqjnoeyji65zhnbziuphnwy6hcni4ka4nropqm",
+  "name": "RoboPunks 2048 #45"
+}

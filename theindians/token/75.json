@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #75",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/75.png",
+  "dna": "e8c859a0f2b8325e91f608c41d73a8d9e9a60d3b",
+  "edition": 75,
+  "date": 1658291069794,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Kshatriyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy Sir"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bangalore Blast"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Larry Desi David"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "RJayBans"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Digest the Mughlai Biryani"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

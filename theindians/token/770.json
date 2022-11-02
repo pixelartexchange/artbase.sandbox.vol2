@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #770",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/770.png",
+  "dna": "89089307136521d8d0532b707f4478eed5c47fcc",
+  "edition": 770,
+  "date": 1658291080357,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Military Guy Background"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Ganges Guy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Twirly Old"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Jhakaas Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Patriotic Turban"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Gurgle Gurgle Curd Rice"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

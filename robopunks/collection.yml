@@ -1,0 +1,17 @@
+###
+#  https://twitter.com/robopunks2048
+#
+
+slug:       robopunks
+count:      2048
+token_base: https://nft.bueno.art/api/contract/v5TfTvd5B0R4TvBUR6dWS/chain/1/metadata/{id}
+
+offset:     1
+format:     24x24
+source:     1600x1600    ## 66px*24 = 1584 (16px overflow)
+
+opensea:    robopunks2048
+
+token:
+  contract:  "0xfdc376804f179d45b81047fcb695783ac0403fb9"
+

@@ -1,0 +1,35 @@
+{
+  "attributes": [
+    {
+      "value": "Vertical",
+      "trait_type": "Air Intake"
+    },
+    {
+      "value": "Full-Spectrum",
+      "trait_type": "Audio Sensors"
+    },
+    {
+      "value": "Available",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Dark-Grey",
+      "trait_type": "Metal"
+    },
+    {
+      "value": "BB8",
+      "trait_type": "Radio"
+    },
+    {
+      "value": "Vents",
+      "trait_type": "Speaker"
+    },
+    {
+      "value": "Blood-Red",
+      "trait_type": "Visual Sensors"
+    }
+  ],
+  "description": "2048 RoboPunks recently assembled for service on the Ethereum blockchain. ",
+  "image": "ipfs://bafkreiaripqpj2suegnd5bye2lalbafoqfi2jannw6rykrm3qomnr3gysq",
+  "name": "RoboPunks 2048 #1654"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1977",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1977.png",
+  "dna": "30ac09ee3f485236195a2dad91e99dd7406f4167",
+  "edition": 1977,
+  "date": 1658291097651,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Manik"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Dalit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Desi Old Beard"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Regular Juice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "You are have a de turban"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Digesting the Saffron Infused Chutney"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #2048",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/2048.png",
+  "dna": "edd5c005f5fc65f1eb8a6371db2de95d73539b90",
+  "edition": 2048,
+  "date": 1658291098613,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jaamuni"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Kshatriyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlehaars"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bluetooth Headset"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Samalaingik Turban Sir"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Sleep"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Eat the Baati from Beautiful Wife"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

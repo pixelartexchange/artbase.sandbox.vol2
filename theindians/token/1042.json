@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1042",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1042.png",
+  "dna": "d5a5690b8b3cce7f7ff1105ff9b0648dacc29cba",
+  "edition": 1042,
+  "date": 1658291084223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desi Nights"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Shudras"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goat Guy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Kolkata Kokonut"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Skaarph"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Desi Aviators"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "belly full of fine indian wine"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

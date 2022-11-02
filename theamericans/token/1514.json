@@ -1,0 +1,39 @@
+{
+  "name": "The Americans #1514",
+  "description": "10,000 Americans are here to become the wealthiest group in the world #THEAMERICANS",
+  "image": "ipfs://QmaErYt9AuUJM3JHDpdQRCs9CNQ1MamxAjsfA8o99W3gSR/1514.png",
+  "dna": "01e670ee33e17e58c86cd0414af202c01cf8d7c3",
+  "edition": 1514,
+  "date": 1657803748580,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "American"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "French Beard Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Uncle Sam Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Football Horn"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Football Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

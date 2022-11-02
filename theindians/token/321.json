@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #321",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/321.png",
+  "dna": "b9715b228f1f7e4a2e03cb4446ac6481b6341af4",
+  "edition": 321,
+  "date": 1658291073819,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lemonade aroma"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Dalit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlehaars"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chennai Cherry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Desi Daru Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey Eyebrow Guy"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Aloo Gobi all in De Belly"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

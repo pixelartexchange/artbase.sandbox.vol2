@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #804",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/804.png",
+  "dna": "7fccebbcd1a5116daefc4485f974dbc86a675c4a",
+  "edition": 804,
+  "date": 1658291080822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Dalit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Old thick Sir"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Kolkata Kokonut"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "This Chicken Tikka Masala is make me bloated sir"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

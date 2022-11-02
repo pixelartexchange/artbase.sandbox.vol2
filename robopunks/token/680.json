@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "value": "Bidirectional",
+      "trait_type": "Audio Sensors"
+    },
+    {
+      "value": "V1",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Light-Grey",
+      "trait_type": "Metal"
+    },
+    {
+      "value": "Goggles",
+      "trait_type": "Visual Sensors"
+    }
+  ],
+  "description": "2048 RoboPunks recently assembled for service on the Ethereum blockchain. ",
+  "image": "ipfs://bafkreiaahn7smsmmjgh7htxibttrd2qxveyhbuaheur2xn32yle2r5zom4",
+  "name": "RoboPunks 2048 #680"
+}

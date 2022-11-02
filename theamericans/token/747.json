@@ -1,0 +1,39 @@
+{
+  "name": "The Americans #747",
+  "description": "10,000 Americans are here to become the wealthiest group in the world #THEAMERICANS",
+  "image": "ipfs://QmaErYt9AuUJM3JHDpdQRCs9CNQ1MamxAjsfA8o99W3gSR/747.png",
+  "dna": "9ebb990905eb1182cc31296eb9d76c54401ac327",
+  "edition": 747,
+  "date": 1657803664521,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "American"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Beard Black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tomahawk Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Meh"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Flag Tattoo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

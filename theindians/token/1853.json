@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1853",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1853.png",
+  "dna": "218ffc6ac01900febbb325480986475230874aac",
+  "edition": 1853,
+  "date": 1658291095982,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Vaishyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ranga"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tropical"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Redbans"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Medu Vada Street Paratha"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

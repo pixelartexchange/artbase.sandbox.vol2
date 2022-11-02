@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #31",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/31.png",
+  "dna": "8439b21a5dd6925d11a4fd4f75206d80b65f2477",
+  "edition": 31,
+  "date": 1658291069232,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Kshatriyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlehaars"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bloody Bastard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Achcha Fonzie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bindi Boy"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Malabar Fish Curry digest"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

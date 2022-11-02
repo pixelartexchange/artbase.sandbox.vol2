@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1586",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1586.png",
+  "dna": "fc335d13d06c02e811478e0dbf45478e81114042",
+  "edition": 1586,
+  "date": 1658291091945,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Goop Ga"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Vaishyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlehaars"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Juniper Jaipur"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Achcha Fonzie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Redbans"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Belly full of Indian beer"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

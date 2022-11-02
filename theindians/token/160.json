@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #160",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/160.png",
+  "dna": "263ef8062d9bdb10b16fb59f9cd8c8cb19940cd8",
+  "edition": 160,
+  "date": 1658291071150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Flag Sir"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Dalit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Desi Old Beard"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Maximum Desi Turban"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dev Frames"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "delicious hot and fresh paneer pakora in belly"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

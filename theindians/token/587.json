@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #587",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/587.png",
+  "dna": "01bde14daeae843dfb7044af5db5870508ca4d52",
+  "edition": 587,
+  "date": 1658291077723,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ande ka chhilaka"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Dalit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shaant ladaka"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "RJayBans"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Found a chicken bone in his veggie dosa"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

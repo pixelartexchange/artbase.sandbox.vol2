@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #511",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/511.png",
+  "dna": "65f0e493126ba026de7e17f41110b6240e546c0a",
+  "edition": 511,
+  "date": 1658291076657,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Military Guy Background"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Brahmin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Old thick Sir"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Santara Turban"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shifty Guy"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Bhakri Digest"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

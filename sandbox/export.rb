@@ -1,3 +1,8 @@
+#
+#  todo/fix:
+#     move export to opensea.cache repo !!!!!
+
+
 ###
 #   export collections; to run use:
 #  $ ruby sandbox/export.rb

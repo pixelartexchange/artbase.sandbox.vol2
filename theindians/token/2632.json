@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #2632",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/2632.png",
+  "dna": "5d021bbc8528d175637452fdba11964f4b5f100b",
+  "edition": 2632,
+  "date": 1658291106934,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "peela"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Vaishyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Desi Old Beard"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bloody Bastard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ajna Third Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Sleep"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Belly full of Indian beer"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

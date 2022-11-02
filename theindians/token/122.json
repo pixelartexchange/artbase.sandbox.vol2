@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #122",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/122.png",
+  "dna": "7229e1c16a44baeec3cf2bb4e5fcd168d964f69a",
+  "edition": 122,
+  "date": 1658291070396,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ret"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Brahmin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy Sir"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bloody Bastard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "no hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired sir"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "belly full of fine indian wine"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

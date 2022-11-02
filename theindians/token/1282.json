@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1282",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1282.png",
+  "dna": "e7b06090ba7ecfd46bfeaa1f422b9ddf6b5cc8e7",
+  "edition": 1282,
+  "date": 1658291087743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shaantipoorn"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Kshatriyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goat Guy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Juice Cashier"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meta Remote Worker"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "This Chicken Tikka Masala is make me bloated sir"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

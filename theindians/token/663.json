@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #663",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/663.png",
+  "dna": "908f216440cad30495b6c822bd19c41cfd8dbb04",
+  "edition": 663,
+  "date": 1658291078833,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Firoza"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Vaishyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goat Guy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Dual Wielding Juice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Desi Style Full Head of Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bindi Boy"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Tandoori Chicken in mouth"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

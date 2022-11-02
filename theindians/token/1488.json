@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1488",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1488.png",
+  "dna": "8b04ba36ad1af76e8a673dee5bf1d65cb1491163",
+  "edition": 1488,
+  "date": 1658291090591,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "peela"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Kshatriyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goat Guy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Juniper Jaipur"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fast Food Lord"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "RJayBans"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "delicious hot and fresh paneer pakora in belly"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

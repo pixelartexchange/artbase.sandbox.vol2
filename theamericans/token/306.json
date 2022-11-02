@@ -1,0 +1,39 @@
+{
+  "name": "The Americans #306",
+  "description": "10,000 Americans are here to become the wealthiest group in the world #THEAMERICANS",
+  "image": "ipfs://QmaErYt9AuUJM3JHDpdQRCs9CNQ1MamxAjsfA8o99W3gSR/306.png",
+  "dna": "e7939bd040fc35c0da4d4292a194e7f746cfd829",
+  "edition": 306,
+  "date": 1657803614691,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "American"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Medium Beard Black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Uncle Sam Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blush"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

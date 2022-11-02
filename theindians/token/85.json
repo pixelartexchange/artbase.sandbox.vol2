@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #85",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/85.png",
+  "dna": "373e8d4662c9a4aa1d967ed81cd62b902f1a76b0",
+  "edition": 85,
+  "date": 1658291069926,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Goop Ga"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Shudras"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Desi Old Beard"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Regular Juice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Maximum Desi Turban"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Spoiled Chicken Tikka Masala"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

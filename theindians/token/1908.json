@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1908",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1908.png",
+  "dna": "ec02a02de0d82fc42d304b3626a656302acda43f",
+  "edition": 1908,
+  "date": 1658291096732,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ande ka chhilaka"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Shudras"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Sir"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ajna Third Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frames"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Belly full of Indian beer"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

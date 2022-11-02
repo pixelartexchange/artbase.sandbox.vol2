@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #63",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/63.png",
+  "dna": "65d96c151badf82d8a8da9bff8db621a7104d727",
+  "edition": 63,
+  "date": 1658291069644,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "mess up background sir"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Dalit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handlehaars"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Laal Skaarph"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Sleep"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Spoiled Chicken Tikka Masala"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1985",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1985.png",
+  "dna": "a5f01b27c58ea8825a108a607289a087b18f269f",
+  "edition": 1985,
+  "date": 1658291097765,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Flag Sir"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Dalit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ranga"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Achcha Fonzie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shifty Guy"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Saffron Sadhya not sit right"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

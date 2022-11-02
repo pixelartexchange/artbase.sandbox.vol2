@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1974",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1974.png",
+  "dna": "af82af066163b068712e3db67a0b04d91d75b116",
+  "edition": 1974,
+  "date": 1658291097611,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Indian Sunset"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Mota Vaishyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Twirly Old"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "no hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "delicious hot and fresh paneer pakora in belly"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

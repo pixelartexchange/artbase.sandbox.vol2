@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "value": "V2",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "Metal"
+    },
+    {
+      "value": "Speaker-1C",
+      "trait_type": "Speaker"
+    },
+    {
+      "value": "Light-Grey",
+      "trait_type": "Visual Sensors"
+    }
+  ],
+  "description": "2048 RoboPunks recently assembled for service on the Ethereum blockchain. ",
+  "image": "ipfs://bafkreiefmk42oxgzard3qbipq52lhz2zev3udtv56dqeu4btlbumciovim",
+  "name": "RoboPunks 2048 #1251"
+}

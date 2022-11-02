@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #67",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/67.png",
+  "dna": "d5dbf3988563b9dcb31cface858b9219a26e5200",
+  "edition": 67,
+  "date": 1658291069696,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Military Guy Background"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Kshatriyas"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Sir"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gloomy Grey Turban Guy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fumk Glasses"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Savouring Mango Lassi swishing in mouth between teeth"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

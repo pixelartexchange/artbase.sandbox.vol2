@@ -1,0 +1,25 @@
+
+slug:        theamericans
+count:       10000
+token_base:  ipfs://Qmd9FE1XKkdpddUUG9nUkgQruVV2B8aE2cuCayS1QcWRTS/{id}.json
+# image_base:  ipfs://QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/{id}.png
+format:      24x24
+source:      640x640
+
+
+####
+# note:  token no. 0  has image with no. 10000!!!!
+#
+# https://ipfs.io/ipfs/Qmd9FE1XKkdpddUUG9nUkgQruVV2B8aE2cuCayS1QcWRTS/10000.json
+#  results in
+#  ipfs resolve -r /ipfs/Qmd9FE1XKkdpddUUG9nUkgQruVV2B8aE2cuCayS1QcWRTS/10000.json:
+#   no link named "10000.json"
+#  under Qmd9FE1XKkdpddUUG9nUkgQruVV2B8aE2cuCayS1QcWRTS
+
+
+opensea: the-americans-nft
+
+token:
+  contract: "0x4ef3d9eab34783995bc394d569845585ac805ef8"
+
+

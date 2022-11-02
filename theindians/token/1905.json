@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1905",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1905.gif",
+  "dna": "f222b43def09c942fa034ac7a7729f99f70601a3",
+  "edition": 1905,
+  "date": 1658286421258,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Roof Dojo"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Yogi Brahmin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yogi Flame"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "MAX ACCESSORIZE"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MAX COOL EYES"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Desi Tribal Power"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "no eat"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

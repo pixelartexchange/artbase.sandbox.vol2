@@ -1,0 +1,39 @@
+{
+  "name": "The Indians #1918",
+  "description": "3,333 #MAXCOOL Indians spreading the needful Indian culture around the blockchain",
+  "image": "https://theindians.mypinata.cloud/ipfs/QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/1918.gif",
+  "dna": "f222b43def09c942fa034ac7a7729f99f70601a3",
+  "edition": 1,
+  "date": 1658286421258,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Caste",
+      "value": "Hindisaur"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Clean Scale ser"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Desi Dino"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hindisaur Spikes"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Karachi Pakistan"
+    }
+  ],
+  "compiler": "Desi Dudes LLC"
+}

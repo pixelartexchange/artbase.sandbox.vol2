@@ -1,0 +1,20 @@
+
+slug:        theindians
+count:       3333
+token_base:  ipfs://Qmck1b8xqoaAig866J5fSh1QvgmVQoGaoPSvNNWRRLWQyE/{id}
+image_base:  ipfs://QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/{id}.png
+format:      24x24
+source:      336x336    ## 14px*24 = 336
+offset:      1
+
+
+###
+# note:  image_base  344.png -  404 Not Found
+
+
+opensea: theindiansofficial
+
+token:
+  contract: "0xe90c10611d3ea7539f76913d112db579aae839e6"
+
+
