@@ -53,7 +53,7 @@ OK  opensea @ [covidpunksnft](https://opensea.io/collection/covidpunksnft)<br>
 ![](i/divinepunks-strip.png)
 
 !!   162 of 1000 in /token<br>
-!!   207 of 1000 in /24x24<br>
+OK   1000 of 1000 in /24x24<br>
 OK  opensea @ [divinepunks](https://opensea.io/collection/divinepunks)<br>
 
 
@@ -69,6 +69,26 @@ OK  opensea @ [divinepunks](https://opensea.io/collection/divinepunks)<br>
  "offset"=>1,
  "opensea"=>"divinepunks",
  "token"=>{"contract"=>"0xc2cdb10342fa908137b6a4d2ac6a8eced88b61b2"}}
+```
+
+## 24x24  dystopunks (in ./dystopunks) - 2077 max.
+
+![](i/dystopunks-strip.png)
+
+OK   2077 of 2077 in /token<br>
+OK   2077 of 2077 in /24x24<br>
+OK  opensea @ [dystopunks](https://opensea.io/collection/dystopunks)<br>
+
+
+```
+{"slug"=>"dystopunks",
+ "count"=>2077,
+ "token_base"=>
+  "https://dystopunks.mypinata.cloud/ipfs/QmeYQ2eDCcJpfBQHq59P7SNevQR2ycEfctn6waw8fZBJhK/{id}",
+ "format"=>"24x24",
+ "source"=>"480x480",
+ "opensea"=>"dystopunks",
+ "token"=>{"contract"=>"0xbea8123277142de42571f1fac045225a1d347977"}}
 ```
 
 ## 24x24  goblin-punks (in ./goblin-punks) - 99 max.
@@ -112,18 +132,18 @@ OK  opensea @ [halloweenpunks-here](https://opensea.io/collection/halloweenpunks
  "token"=>{"contract"=>"0xdb826b7492409a358e44702fd022565554430d3e"}}
 ```
 
-## 22x22  hauntedpunks (in ./hauntedpunks) - 200 max.
+## 22x22  hauntedpunks (in ./hauntedpunks) - 5555 max.
 
 ![](i/hauntedpunks-strip.png)
 
-!!   100 of 200 in /token<br>
-OK   200 of 200 in /22x22<br>
+!!   100 of 5555 in /token<br>
+!!   278 of 5555 in /22x22<br>
 OK  opensea @ [haunted-punks-666](https://opensea.io/collection/haunted-punks-666)<br>
 
 
 ```
 {"slug"=>"hauntedpunks",
- "count"=>200,
+ "count"=>5555,
  "token_base"=>
   "ipfs://QmVztu4XQmN9MRXkKn2Bqcsb9owopNStMn1ipt2Dfkiz2o/{id}.json",
  "image_base"=>
@@ -170,6 +190,29 @@ OK  opensea @ [philip-phunks](https://opensea.io/collection/philip-phunks)<br>
  "offset"=>1,
  "opensea"=>"philip-phunks",
  "token"=>{"contract"=>"0xa3915c387ccebfd451343a7768e3c2cfb6fdad48"}}
+```
+
+## 24x24  phunksinblack (in ./phunksinblack) - 1300 max.
+
+![](i/phunksinblack-strip.png)
+
+OK   1300 of 1300 in /token<br>
+OK   1300 of 1300 in /24x24<br>
+OK  opensea @ [phunksinblack](https://opensea.io/collection/phunksinblack)<br>
+
+
+```
+{"slug"=>"phunksinblack",
+ "count"=>1300,
+ "token_base"=>
+  "ipfs://bafybeibarfvxpvgijwm2c5j3tjp4y2lo3zbqgjctnwmfrrntnsyjs5ceju/{id}.json",
+ "image_base"=>
+  "ipfs://bafybeihepao62sswaseh4xucvkkdzgnwpo7kc7nr6ggp5fbliqoki5l7ii/{id}.png",
+ "offset"=>1,
+ "format"=>"24x24",
+ "source"=>"720x720",
+ "opensea"=>"phunksinblack",
+ "token"=>{"contract"=>"0x2636942bfd3f60f4ec43e02edafcc84c9d49fb8e"}}
 ```
 
 ## 25x25  pisspunks (in ./pisspunks) - 9999 max.
@@ -236,6 +279,86 @@ OK  opensea @ [reggaetonpunks](https://opensea.io/collection/reggaetonpunks)<br>
  "opensea"=>"reggaetonpunks"}
 ```
 
+##   renegade-punks (in ./renegade-punks) - 10000 max.
+
+!! preview strip missing
+
+!!   0 of 10000 in /token<br>
+!!   0 of 10000 in /<br>
+OK  opensea @ [renegade-punks](https://opensea.io/collection/renegade-punks)<br>
+
+
+```
+{"slug"=>"renegade-punks",
+ "count"=>10000,
+ "token_base"=>"???",
+ "opensea"=>"renegade-punks",
+ "token"=>{"contract"=>"0xba02e04c96ee4b38f8ad5b6cd0444ea23854c97f"}}
+```
+
+## 24x24  robopunks (in ./robopunks) - 2048 max.
+
+![](i/robopunks-strip.png)
+
+OK   2048 of 2048 in /token<br>
+OK   2048 of 2048 in /24x24<br>
+OK  opensea @ [robopunks2048](https://opensea.io/collection/robopunks2048)<br>
+
+
+```
+{"slug"=>"robopunks",
+ "count"=>2048,
+ "token_base"=>
+  "https://nft.bueno.art/api/contract/v5TfTvd5B0R4TvBUR6dWS/chain/1/metadata/{id}",
+ "offset"=>1,
+ "format"=>"24x24",
+ "source"=>"1600x1600",
+ "opensea"=>"robopunks2048",
+ "token"=>{"contract"=>"0xfdc376804f179d45b81047fcb695783ac0403fb9"}}
+```
+
+## 24x24  theamericans (in ./theamericans) - 10000 max.
+
+![](i/theamericans-strip.png)
+
+!!   1515 of 10000 in /token<br>
+!!   293 of 10000 in /24x24<br>
+OK  opensea @ [the-americans-nft](https://opensea.io/collection/the-americans-nft)<br>
+
+
+```
+{"slug"=>"theamericans",
+ "count"=>10000,
+ "token_base"=>
+  "ipfs://Qmd9FE1XKkdpddUUG9nUkgQruVV2B8aE2cuCayS1QcWRTS/{id}.json",
+ "format"=>"24x24",
+ "source"=>"640x640",
+ "opensea"=>"the-americans-nft",
+ "token"=>{"contract"=>"0x4ef3d9eab34783995bc394d569845585ac805ef8"}}
+```
+
+## 24x24  theindians (in ./theindians) - 3333 max.
+
+![](i/theindians-strip.png)
+
+OK   3333 of 3333 in /token<br>
+!!   343 of 3333 in /24x24<br>
+OK  opensea @ [theindiansofficial](https://opensea.io/collection/theindiansofficial)<br>
+
+
+```
+{"slug"=>"theindians",
+ "count"=>3333,
+ "token_base"=>"ipfs://Qmck1b8xqoaAig866J5fSh1QvgmVQoGaoPSvNNWRRLWQyE/{id}",
+ "image_base"=>
+  "ipfs://QmZ8ds9ggctHcFVbnVTnPcgwXmJy8pmvq6kZMrdzYdAaqm/{id}.png",
+ "format"=>"24x24",
+ "source"=>"336x336",
+ "offset"=>1,
+ "opensea"=>"theindiansofficial",
+ "token"=>{"contract"=>"0xe90c10611d3ea7539f76913d112db579aae839e6"}}
+```
+
 ## 24x24  thejews (in ./thejews) - 5555 max.
 
 ![](i/thejews-strip.png)
@@ -284,9 +407,9 @@ OK  opensea @ [nigeriansnft](https://opensea.io/collection/nigeriansnft)<br>
 
 ## 24x24  thesaudis (in ./thesaudis) - 5555 max.
 
-!! preview strip missing
+![](i/thesaudis-strip.png)
 
-!!   0 of 5555 in /24x24<br>
+!!   11 of 5555 in /24x24<br>
 OK  opensea @ [thesaudis](https://opensea.io/collection/thesaudis)<br>
 
 
