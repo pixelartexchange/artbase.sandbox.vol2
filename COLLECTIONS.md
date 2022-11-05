@@ -322,7 +322,7 @@ OK  opensea @ [robopunks2048](https://opensea.io/collection/robopunks2048)<br>
 ![](i/theamericans-strip.png)
 
 !!   1515 of 10000 in /token<br>
-!!   293 of 10000 in /24x24<br>
+!!   393 of 10000 in /24x24<br>
 OK  opensea @ [the-americans-nft](https://opensea.io/collection/the-americans-nft)<br>
 
 
@@ -335,6 +335,72 @@ OK  opensea @ [the-americans-nft](https://opensea.io/collection/the-americans-nf
  "source"=>"640x640",
  "opensea"=>"the-americans-nft",
  "token"=>{"contract"=>"0x4ef3d9eab34783995bc394d569845585ac805ef8"}}
+```
+
+## 24x24  thecalifornians (in ./thecalifornians) - 5555 max.
+
+![](i/thecalifornians-strip.png)
+
+!!   20 of 5555 in /token<br>
+!!   111 of 5555 in /24x24<br>
+OK  opensea @ [the-californians-nft](https://opensea.io/collection/the-californians-nft)<br>
+
+
+```
+{"slug"=>"thecalifornians",
+ "count"=>5555,
+ "token_base"=>"ipfs://QmQyM9kr4WCu8FdzFSK4ztE8ziR724Bsaj1JqqXy7Pz5B6/{id}",
+ "image_base"=>
+  "ipfs://QmUxvh76UnJuxMsLP4Yx1e9KVPmzZxZcME6UAcSz5ExyBB/{id}.png",
+ "format"=>"24x24",
+ "source"=>"1200x1200",
+ "offset"=>1,
+ "opensea"=>"the-californians-nft",
+ "token"=>{"contract"=>"0xe00ffd0f7bf2c819412fe62c0146b059bad841b7"}}
+```
+
+## 24x24  theeuropeans (in ./theeuropeans) - 10000 max.
+
+![](i/theeuropeans-strip.png)
+
+!!   5 of 10000 in /token<br>
+!!   26 of 10000 in /24x24<br>
+OK  opensea @ [theeuropeansnft](https://opensea.io/collection/theeuropeansnft)<br>
+
+
+```
+{"slug"=>"theeuropeans",
+ "count"=>10000,
+ "token_base"=>"ipfs://Qmb4c9pUuX8mkYRamBrHsdpCtj3J6EfkrrB7C7XaXiXscM/{id}",
+ "image_base"=>
+  "ipfs://QmPfqcTHCq9Luh7mgAk3FpPzvTQUe1xeG9uxU4TnHu3oFm/{id}.png",
+ "format"=>"24x24",
+ "source"=>"800x800",
+ "opensea"=>"theeuropeansnft",
+ "token"=>{"contract"=>"0xec48383337c70c5fd3f6b98032365e4ad7832ae1"}}
+```
+
+## 24x24  thegreeks (in ./thegreeks) - 6666 max.
+
+![](i/thegreeks-strip.png)
+
+!!   16 of 6666 in /token<br>
+!!   9 of 6666 in /24x24<br>
+OK  opensea @ [thegreeksnft](https://opensea.io/collection/thegreeksnft)<br>
+
+
+```
+{"slug"=>"thegreeks",
+ "count"=>6666,
+ "token_base"=>
+  "ipfs://QmaptJ8mTu3LEjR2Pcsx7bJsdejbL7jsGUkZvSfXY5SqXn/{id}.json",
+ "image_base"=>
+  "ipfs://QmdmaQz77eXMwdHM6DzX15F5kUVS6EenSfQRyeRhHgiJgt/{id}.png",
+ "format"=>"24x24",
+ "source"=>"1000x1000",
+ "offset"=>1,
+ "opensea"=>"thegreeksnft",
+ "token"=>{"contract"=>"0x535181d7a6e103b927afac13de159b07f9dcea6e"}}
 ```
 
 ## 24x24  theindians (in ./theindians) - 3333 max.
@@ -357,6 +423,26 @@ OK  opensea @ [theindiansofficial](https://opensea.io/collection/theindiansoffic
  "offset"=>1,
  "opensea"=>"theindiansofficial",
  "token"=>{"contract"=>"0xe90c10611d3ea7539f76913d112db579aae839e6"}}
+```
+
+## 24x24  theirish (in ./theirish) - 1500 max.
+
+![](i/theirish-strip.png)
+
+OK   1500 of 1500 in /token<br>
+!!   354 of 1500 in /24x24<br>
+OK  opensea @ [luckyirish](https://opensea.io/collection/luckyirish)<br>
+
+
+```
+{"slug"=>"theirish",
+ "count"=>1500,
+ "token_base"=>"https://cdn-api.niftykit.com/reveal/4eepE2iygshM9GMkOulT/{id}",
+ "format"=>"24x24",
+ "source"=>"1000x1000",
+ "offset"=>1,
+ "opensea"=>"luckyirish",
+ "token"=>{"contract"=>"0x82f7e085a25a45f219e68905c7cf5646fa9678e1"}}
 ```
 
 ## 24x24  thejews (in ./thejews) - 5555 max.
@@ -403,6 +489,29 @@ OK  opensea @ [nigeriansnft](https://opensea.io/collection/nigeriansnft)<br>
  "offset"=>1,
  "opensea"=>"nigeriansnft",
  "token"=>{"contract"=>"0x9f35425c2ef3616dd024d866082e0b61023fbfe1"}}
+```
+
+## 24x24  thepharaohs (in ./thepharaohs) - 7000 max.
+
+![](i/thepharaohs-strip.png)
+
+!!   6 of 7000 in /token<br>
+!!   10 of 7000 in /24x24<br>
+OK  opensea @ [thepharaohs7000](https://opensea.io/collection/thepharaohs7000)<br>
+
+
+```
+{"slug"=>"thepharaohs",
+ "count"=>7000,
+ "token_base"=>
+  "ipfs://bafybeigf4rkyyeifo2rt63ho5kcnfgrcogfipbpkcco25lfpwlvx4di3pe/{id}.json",
+ "image_base"=>
+  "ipfs://bafybeibcyyfi6lyucjkkj7pp4xhuz7azd674y7c24mtbtrdizi6us6qt6a/{id}.png",
+ "format"=>"24x24",
+ "source"=>"1000x1000",
+ "offset"=>1,
+ "opensea"=>"thepharaohs7000",
+ "token"=>{"contract"=>"0x6b1514d9685b796b9899096b9e15fa8c0b1cbd47"}}
 ```
 
 ## 24x24  thesaudis (in ./thesaudis) - 5555 max.
