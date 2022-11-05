@@ -1,0 +1,17 @@
+{
+  "name": "lucky irish  #1763",
+  "description": "will you be lucky like the irish?",
+  "image": "https://bafybeid4f3bh4t7rtsre7pkz4cy2ieskcl64xsyhphpw5c6w5kvfv7wxsy.ipfs.nftstorage.link/1763.png",
+  "dna": "fce6aa66f159cb41e019a9d0129a9ee7274ad22d",
+  "edition": 1763,
+  "date": 1657906488218,
+  "attributes": [
+    {
+      "trait_type": "irish",
+      "value": "mcilroy"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "seller_fee_basis_points": 777,
+  "fee_recipient": "0x70678258e4C07bF3AE8DaDd50e426d65ff01d144"
+}

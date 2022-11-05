@@ -1,0 +1,29 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPfqcTHCq9Luh7mgAk3FpPzvTQUe1xeG9uxU4TnHu3oFm/2.png",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Sweden"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skin 5"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Baldness black"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Mustache red"
+    },
+    {
+      "trait_type": "Tatoo",
+      "value": "Slovenia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sun glasses 2"
+    }
+  ]
+}

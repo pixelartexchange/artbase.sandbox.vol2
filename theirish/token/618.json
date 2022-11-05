@@ -1,0 +1,53 @@
+{
+  "name": "lucky irish  #3893",
+  "description": "will you be lucky like the irish?",
+  "image": "https://bafybeid4f3bh4t7rtsre7pkz4cy2ieskcl64xsyhphpw5c6w5kvfv7wxsy.ipfs.nftstorage.link/3893.png",
+  "dna": "84a8dbf1318ad637c9ebe17f0afbb5d8120119ba",
+  "edition": 3893,
+  "date": 1657906476180,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "body",
+      "value": "dark"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "frown"
+    },
+    {
+      "trait_type": "beard",
+      "value": "brown beard"
+    },
+    {
+      "trait_type": "neck",
+      "value": "gold chain"
+    },
+    {
+      "trait_type": "eyebrows",
+      "value": "blonde"
+    },
+    {
+      "trait_type": "head",
+      "value": "ginger frizz"
+    },
+    {
+      "trait_type": "earring",
+      "value": "silver"
+    },
+    {
+      "trait_type": "eyewear",
+      "value": "gold rims"
+    },
+    {
+      "trait_type": "mouthpiece",
+      "value": "doobie"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "seller_fee_basis_points": 777,
+  "fee_recipient": "0x70678258e4C07bF3AE8DaDd50e426d65ff01d144"
+}

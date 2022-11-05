@@ -1,0 +1,43 @@
+{
+  "name": "Greek #10",
+  "description": "Not just any old derivative, The Greeks have come to rule the blockchain",
+  "image": "ipfs://QmdmaQz77eXMwdHM6DzX15F5kUVS6EenSfQRyeRhHgiJgt/10.png",
+  "dna": "c98ac57f09e11731cb8c3a402eb0589c76b969fa",
+  "edition": 10,
+  "date": 1657750635597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skin 1"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Black Long"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Tucked Leafs"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Greek Pride"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

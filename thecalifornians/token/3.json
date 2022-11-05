@@ -1,0 +1,24 @@
+{
+  "description": "Californians living their best life on the Ethereum blockchain.<br>Sun + Surf + Silicon",
+  "external_url": "https://thecalifornians.xyz/",
+  "image": "ipfs://QmUxvh76UnJuxMsLP4Yx1e9KVPmzZxZcME6UAcSz5ExyBB/3.png",
+  "name": "Californian #0003",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Male 2"
+    },
+    {
+      "trait_type": "Accesories",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "FacialHairs",
+      "value": "Light Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Lakers Cap"
+    }
+  ]
+}

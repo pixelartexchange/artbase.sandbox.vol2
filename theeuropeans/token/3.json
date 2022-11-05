@@ -1,0 +1,29 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPfqcTHCq9Luh7mgAk3FpPzvTQUe1xeG9uxU4TnHu3oFm/3.png",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Hungary"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skin 2"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Mustache black"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cigaret"
+    },
+    {
+      "trait_type": "Tatoo",
+      "value": "Danemark"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap green"
+    }
+  ]
+}

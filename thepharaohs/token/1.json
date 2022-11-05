@@ -1,0 +1,32 @@
+{
+  "image": "ipfs://bafybeibcyyfi6lyucjkkj7pp4xhuz7azd674y7c24mtbtrdizi6us6qt6a/1.png",
+  "name": "The Pharaohs #1",
+  "description": "7,000 Pharaohs ☥ = 7,000 Years Of Civilization 𓂀",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pyramids"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Nomarch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    }
+  ],
+  "edition": 1
+}

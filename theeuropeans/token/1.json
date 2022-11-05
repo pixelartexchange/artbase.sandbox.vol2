@@ -1,0 +1,25 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPfqcTHCq9Luh7mgAk3FpPzvTQUe1xeG9uxU4TnHu3oFm/1.png",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Romania"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skin 3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short white"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Beard light"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cigar"
+    }
+  ]
+}

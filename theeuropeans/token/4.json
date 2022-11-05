@@ -1,0 +1,29 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPfqcTHCq9Luh7mgAk3FpPzvTQUe1xeG9uxU4TnHu3oFm/4.png",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Poland"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skin 4"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short white"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Small beard white"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glasses geek"
+    }
+  ]
+}

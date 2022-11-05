@@ -1,0 +1,21 @@
+{
+  "image": "https://ipfs.io/ipfs/QmPfqcTHCq9Luh7mgAk3FpPzvTQUe1xeG9uxU4TnHu3oFm/0.png",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Cyprus"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skin 2"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glasses blue"
+    }
+  ]
+}
